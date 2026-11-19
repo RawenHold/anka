@@ -26,6 +26,7 @@ import { buildVideoRecords, categories } from './data/archive.js';
 import { matchesVideo } from './data/search.js';
 import embedAvailability from './data/embed-availability.json';
 import { useChannelData } from './hooks/useChannelData.js';
+import { usePhotoParallax } from './hooks/usePhotoParallax.js';
 import musicSources from './data/music-sources.json';
 import PullCord from './components/PullCord.jsx';
 import TravelMap from './components/TravelMap.jsx';
@@ -170,6 +171,7 @@ function VideoCard({ video, saved, query, onOpen, onSave }) {
 }
 
 function App() {
+  usePhotoParallax();
   const channelData = useChannelData();
   const videoRecords = useMemo(() => buildVideoRecords(channelData.videos), [channelData.videos]);
   const [theme, setTheme] = useState(initialTheme);

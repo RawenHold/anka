@@ -2,12 +2,14 @@
 <html lang="ru" data-theme="day">
   <head>
     <meta charset="UTF-8" />
+    <style>html, body { background-color: #101212; } body { margin: 0; }</style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
       .anka-startup { display: none; position: fixed; z-index: 10000; inset: 0; place-items: center; background: rgb(0 0 0 / 58%); backdrop-filter: blur(6px); }
       .anka-js .anka-startup { display: grid; }
       .anka-startup img { display: block; width: min(360px, 78vw); height: auto; }
       .anka-booting { background: #101212; }
+      .anka-booting body { background: #101212; }
       .anka-booting #root, .anka-booting .skip-link { visibility: hidden; }
     </style>
     <script>

@@ -42,16 +42,7 @@ html[data-design="neon"] .cover-actions .ask-ai-popover a:hover { background: #0
 @media (prefers-reduced-motion: reduce) { .ai-mascot, .ai-eyes, .ai-eyes i { animation: none; } }
 ::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
 
-/* Scroll-driven movement is progressive enhancement; images stay still elsewhere. */
-@supports (animation-timeline: view()) {
-  @media (prefers-reduced-motion: no-preference) {
-    :is(.video-thumb-button, .person-photo, .home-photo-card, .channel-banner) { overflow: hidden; }
-    :is(.video-thumb-button img, .person-photo img, .home-photo-card img, .channel-banner img) {
-      animation: anka-photo-drift linear both;
-      animation-timeline: view();
-      animation-range: entry 0% exit 100%;
-    }
-    :is(.cover-image, .truck-gallery-image) { animation: anka-photo-drift linear both; animation-timeline: view(); animation-range: entry 0% exit 100%; }
-    @keyframes anka-photo-drift { from { transform: scale(1.06) translateY(-1.5%); } to { transform: scale(1.06) translateY(1.5%); } }
-  }
+@media (prefers-reduced-motion: no-preference) {
+  :is(.video-thumb-button, .person-photo, .home-photo-card) { overflow: hidden; }
+  :is(.video-thumb-button img, .person-photo img, .home-photo-card img, .cover-image, .truck-gallery-image) { scale: 1.05; }
 }
