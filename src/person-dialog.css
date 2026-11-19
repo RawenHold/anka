@@ -1,0 +1,91 @@
+/* The selected profile layout uses the existing ANKA palette. */
+.person-profile {
+  --profile-ink: var(--text, #f8f8f4);
+  --profile-paper: var(--bg, #0a0b0b);
+  --profile-muted: var(--text-soft, #e2e5df);
+  --profile-rule: var(--line, rgba(239,255,246,.16));
+  position: relative;
+  color: var(--profile-ink);
+  background: var(--profile-paper);
+  font-family: var(--font, 'Manrope Variable', sans-serif);
+}
+
+.person-profile :is(button, a):focus-visible { outline: 3px solid #ff0b98; outline-offset: 3px; }
+
+.person-profile-layout { display: grid; }
+.person-profile-photo { position: relative; min-width: 0; margin: 0; overflow: hidden; background: #252827; }
+.person-profile-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.person-profile--anya .person-profile-photo img { object-position: 36% center; }
+.person-profile--sergey .person-profile-photo img { object-position: 72% center; }
+.person-profile-photo figcaption { position: absolute; right: 14px; bottom: 12px; z-index: 2; padding: 4px 7px; border-radius: 2px; background: rgba(0,0,0,.76); color: #fff; font-size: 10px; line-height: 1.3; }
+.person-profile-intro { min-width: 0; }
+.person-profile-greeting { font-size: 12px; font-weight: 700; }
+.person-profile-intro h2 { margin: 2px 0 8px; font: italic 900 clamp(56px, 7vw, 88px)/.92 var(--display, 'Exo 2 Variable', sans-serif); letter-spacing: -.035em; }
+.person-profile-role { margin: 0; font-size: 12px; font-weight: 800; letter-spacing: .04em; }
+.person-profile-description { max-width: 48ch; margin: 18px 0 0; font-size: 15px; line-height: 1.7; }
+.person-profile-details h3 { margin: 0 0 12px; font: italic 850 clamp(26px,3vw,36px)/1 var(--display, 'Exo 2 Variable', sans-serif); letter-spacing: -.02em; }
+.person-profile-details dl { margin: 0; }
+.person-profile-details dl > div { padding: 12px 0; border-top: 1px solid var(--profile-rule); }
+.person-profile-details dt { margin: 0 0 4px; font-size: 12px; font-weight: 800; }
+.person-profile-details dd { margin: 0; color: var(--profile-muted); font-size: 13px; line-height: 1.6; }
+
+/* The link stays in view while the containing dialog scrolls. */
+.person-profile-social {
+  position: sticky;
+  z-index: 4;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 24px;
+  border-top: 1px solid var(--profile-rule);
+  background: var(--profile-paper);
+}
+.person-profile-social > span { color: var(--profile-muted); font-size: 12px; }
+.person-profile-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 9px 15px;
+  border-radius: 999px;
+  background: #ff0b98;
+  color: #13030c;
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+  transition: background-color .2s ease, transform .2s ease;
+}
+.person-profile-social a:hover { background: #ff6abd; transform: translateY(-1px); }
+.person-profile-social a svg:first-child { width: 19px; height: 19px; }
+.person-profile-social a svg:last-child { width: 15px; height: 15px; }
+
+/* Разворот: picture and story sit side by side, with the facts continuing below. */
+.person-profile--spread .person-profile-layout { grid-template-columns: minmax(0, .92fr) minmax(0, 1.08fr); grid-template-areas: 'photo intro' 'photo details'; }
+.person-profile--spread .person-profile-photo { grid-area: photo; min-height: 590px; }
+.person-profile--spread .person-profile-intro { grid-area: intro; align-self: end; padding: 42px 42px 20px; }
+.person-profile--spread .person-profile-intro h2 { color: var(--accent, #00e4e3); }
+.person-profile--spread .person-profile-details { grid-area: details; padding: 12px 42px 34px; }
+
+@media (max-width: 700px) {
+  .person-profile-intro h2 { font-size: 57px; }
+  .person-profile-description { font-size: 14px; line-height: 1.6; }
+  .person-profile-social { align-items: stretch; flex-direction: column; gap: 8px; padding: 12px 16px; }
+  .person-profile-social > span { display: none; }
+  .person-profile-social a { width: 100%; }
+  .person-profile--spread .person-profile-layout { grid-template-columns: 1fr; grid-template-areas: 'photo' 'intro' 'details'; }
+  .person-profile--spread .person-profile-photo { min-height: 0; height: 310px; }
+  .person-profile--spread .person-profile-intro { padding: 25px 22px 10px; }
+  .person-profile--spread .person-profile-details { padding: 22px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .person-profile *, .person-profile *::before, .person-profile *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}
+
+/* Portraits supplied for these profiles. */
+.person-profile.person-profile--anya .person-profile-photo img,
+.person-profile.person-profile--sergey .person-profile-photo img { object-position: 50% 33%; }
+.person-profile--spread.person-profile--sergey .person-profile-photo img { object-position: 50% 0%; }

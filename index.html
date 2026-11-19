@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru" data-theme="day">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      .anka-startup { display: none; position: fixed; z-index: 10000; inset: 0; place-items: center; background: rgb(0 0 0 / 58%); backdrop-filter: blur(6px); }
+      .anka-js .anka-startup { display: grid; }
+      .anka-startup img { display: block; width: min(360px, 78vw); height: auto; }
+      .anka-booting { background: #101212; }
+      .anka-booting #root, .anka-booting .skip-link { visibility: hidden; }
+    </style>
+    <script>
+      document.documentElement.classList.add('anka-js', 'anka-booting');
+      window.ankaStartupTime = performance.now();
+      window.setTimeout(function () {
+        document.documentElement.classList.remove('anka-booting', 'anka-js');
+      }, 15000);
+    </script>
+    <link rel="preload" as="image" href="./images/anka-loading.gif" />
+    <meta name="theme-color" content="#f5f5f3" />
+    <meta name="description" content="Аня и Сергей — дальнобойщики в США. Выпуски о рейсах по Америке, жизни во Флориде, путешествиях, Volvo и музыке в дороге." />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:title" content="ANKA — Аня и Сергей в дороге" />
+    <meta property="og:description" content="Дальнобой по США, дом во Флориде, путешествия и видео Ани и Сергея." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>ANKA — дальнобой по США, путешествия и жизнь Ани и Сергея</title>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ANKA — дорога и дом","inLanguage":"ru","description":"Личный сайт Ани и Сергея о дальнобое в США, путешествиях и жизни во Флориде.","sameAs":["https://www.youtube.com/@anka-dalnoboi","https://t.me/AnkaDalnoboi"]}</script>
+    <link rel="icon" href="./images/channel-avatar.png" />
+  </head>
+  <body>
+    <div class="anka-startup" id="anka-startup" role="status" aria-label="Загружаем сайт"><img src="./images/anka-loading.gif" alt="" /></div>
+    <a class="skip-link" href="#main">Перейти к содержимому</a>
+    <div id="root"><main id="main"><h1>Аня и Сергей — дальнобойщики в Америке</h1><p>Наши видео о рейсах по США, Volvo, доме во Флориде, путешествиях и музыке.</p><p><a href="https://www.youtube.com/@anka-dalnoboi">Смотреть канал ANKA на YouTube</a></p><!-- ANKA_ARCHIVE --></main></div>
+    <script type="module" src="./src/main.jsx"></script>
+  </body>
+</html>

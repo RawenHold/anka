@@ -1,0 +1,66 @@
+.anka-music { background: #aaff00; color: #101010; padding: clamp(72px, 9vw, 125px) 3vw; font-family: 'Manrope Variable', sans-serif; }
+.anka-music-inner { max-width: 1280px; margin: 0 auto; }
+.anka-music-heading { display: flex; align-items: end; justify-content: space-between; gap: 40px; margin-bottom: 48px; }
+.anka-music-kicker { font-size: 11px; font-weight: 800; letter-spacing: .12em; }
+.anka-music-heading h2 { margin: 0; color: #0a1004; font: italic 900 clamp(42px, 6vw, 88px)/.95 'Exo 2 Variable', sans-serif; letter-spacing: -.035em; }
+.anka-music-heading h2 em { font-style: inherit; }
+.anka-music-heading > p { max-width: 330px; margin: 0; font-size: 14px; line-height: 1.6; }
+.anka-music-search { display: flex; flex-direction: column; gap: 8px; max-width: 650px; margin-bottom: 24px; }
+.anka-music-search label { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
+.anka-music-search input { width: 100%; min-height: 52px; padding: 0 16px; border: 2px solid #111; border-radius: 0; background: transparent; color: #111; font: inherit; }
+.anka-music-search input::placeholder { color: #394600; }
+.anka-music-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 24px; font-size: 12px; font-weight: 700; }
+.anka-music-filters { display: flex; flex-wrap: wrap; gap: 7px; }
+.anka-music button { cursor: pointer; font: inherit; }
+.anka-music-filters button { min-height: 40px; padding: 8px 14px; border: 1px solid #111; border-radius: 0; background: transparent; color: #111; font-size: 12px; font-weight: 800; }
+.anka-music-filters button[aria-pressed="true"] { background: #111; color: #bfff00; }
+.anka-music-list { margin: 0; padding: 0; list-style: none; border-top: 2px solid #111; }
+.anka-music-row { display: grid; grid-template-columns: 70px minmax(0, 1fr) auto; gap: 20px; align-items: center; padding: 16px 0; border-bottom: 1px solid rgba(0,0,0,.45); }
+.anka-music-cover { position: relative; display: grid; place-items: center; width: 70px; aspect-ratio: 1; overflow: hidden; background: #111; color: #bfff00; font-size: 28px; }
+.anka-music-cover img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.anka-music-cover svg { width: 30px; height: 30px; }
+.anka-music-info { min-width: 0; }
+.anka-music-label { display: block; margin-bottom: 5px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.anka-music-info h3 { margin: 0; font-size: clamp(17px, 2vw, 23px); font-weight: 900; line-height: 1.2; overflow-wrap: anywhere; }
+.anka-music-info > p { margin: 4px 0 0; font-size: 13px; line-height: 1.5; }
+.anka-music-info .anka-music-note { max-width: 570px; font-size: 11px; }
+.anka-music-actions { display: flex; align-items: stretch; flex-direction: column; gap: 7px; width: min(100%, 235px); font-size: 12px; font-weight: 800; }
+.anka-music-actions .anka-music-listen, .anka-music-actions .anka-music-scene { display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 6px 11px; border: 1px solid #141b0b; border-radius: 999px; font: 800 11px/1.25 'Manrope Variable', sans-serif; text-align: left; text-decoration: none; transition: background-color .2s ease, color .2s ease, border-color .2s ease; }
+.anka-music-actions .anka-music-listen { background: #11170d; color: #fff; }
+.anka-music-actions .anka-music-listen:hover { background: #26351a; border-color: #26351a; }
+.anka-music-actions .anka-music-listen > span:nth-child(2) { flex: 1; }
+.anka-music-actions .anka-music-listen > svg { width: 14px; height: 14px; flex: 0 0 auto; }
+.anka-platform-mark { display: inline-flex; align-items: center; justify-content: center; min-width: 27px; height: 27px; flex: 0 0 auto; border-radius: 50%; background: #fff; color: #111; }
+.anka-platform-mark.is-youtube { color: #e5001b; }
+.anka-platform-mark.is-youtube svg { width: 19px; height: 19px; }
+.anka-platform-mark.is-suno { min-width: 37px; padding: 0 5px; border-radius: 999px; font-size: 9px; font-weight: 900; letter-spacing: -.04em; }
+.anka-music-actions .anka-music-scene { background: transparent; color: #10170b; }
+.anka-music-actions .anka-music-scene:hover { background: #d1ff75; }
+.anka-music-scene > svg { width: 20px; height: 20px; flex: 0 0 auto; }
+.anka-music-time { margin-left: auto; font-size: 10px; font-weight: 700; white-space: nowrap; }
+.anka-music-mentions button, .anka-music-cues button { padding: 0; border: 0; background: transparent; color: inherit; text-align: left; }
+html[data-design] .anka-music-actions :is(a,button):focus-visible { outline: 3px solid #111; outline-offset: 3px; }
+.anka-music-mentions { margin-top: 9px; font-size: 11px; }
+.anka-music-mentions summary, .anka-music-cues summary { cursor: pointer; font-weight: 800; }
+.anka-music-mentions button { display: block; margin-top: 8px; text-decoration: underline; }
+.anka-music-more, .anka-music-empty button { margin-top: 24px; padding: 13px 18px; border: 2px solid #111; background: #111; color: #bfff00; font-weight: 800; }
+.anka-music-empty { padding: 30px 0; }
+.anka-music-empty h3, .anka-music-empty p { margin: 0 0 8px; }
+.anka-music-disclaimer { max-width: 760px; margin: 24px 0; font-size: 12px; line-height: 1.6; }
+.anka-music-cues { border-top: 2px solid #111; padding-top: 20px; }
+.anka-music-cues summary { display: flex; justify-content: space-between; gap: 20px; min-height: 44px; }
+.anka-music-cues > p { max-width: 650px; font-size: 13px; line-height: 1.5; }
+.anka-music-cues > div > button { display: grid; grid-template-columns: 1fr 1fr auto; gap: 15px; width: 100%; padding: 14px 0; border-bottom: 1px solid rgba(0,0,0,.35); font-size: 12px; }
+.anka-music-cues-more { margin-top: 20px; font-weight: 800 !important; text-decoration: underline; }
+.anka-music :focus-visible { outline: 3px solid #111; outline-offset: 3px; }
+@media (max-width: 700px) {
+  .anka-music { padding-inline: 18px; }
+  .anka-music-heading { align-items: start; flex-direction: column; gap: 20px; margin-bottom: 32px; }
+  .anka-music-toolbar { align-items: start; flex-direction: column; }
+  .anka-music-row { grid-template-columns: 56px minmax(0, 1fr); gap: 12px; }
+  .anka-music-cover { width: 56px; }
+  .anka-music-actions { grid-column: 2; width: 100%; max-width: 280px; gap: 6px; }
+  .anka-music-cues > div > button { grid-template-columns: 1fr auto; gap: 5px 12px; }
+  .anka-music-cues > div > button span:nth-child(2) { grid-column: 1; }
+  .anka-music-cues > div > button span:last-child { grid-column: 2; grid-row: 1 / span 2; }
+}

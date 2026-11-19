@@ -1,0 +1,5293 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "src/data/channel-catalog.json",
+  "coverage": {
+    "catalogVideos": 232,
+    "descriptionsAvailable": 230,
+    "uniqueLinksFound": 54,
+    "videoLinkMentions": 83,
+    "namedTrackGroupsWithoutDirectLink": 14,
+    "namedTrackMentionsWithoutDirectLink": 15,
+    "genericMusicMentionsWithoutDirectLink": 219
+  },
+  "items": [
+    {
+      "id": "music-1",
+      "title": "Музыка про города",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/efa60ffe-d527-495c-98dd-8115871354e1",
+      "sourceLinks": [
+        "https://suno.com/s/EdjSZxP92kY1ZARN",
+        "https://suno.com/s/P3HBzWzAdCHa3dES"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_efa60ffe-d527-495c-98dd-8115871354e1.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/efa60ffe-d527-495c-98dd-8115871354e1?sh=EdjSZxP92kY1ZARN"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "00:01",
+          "timeIsApproximate": true,
+          "evidenceText": "00:01 Вступление. Мы на лайнере 🎵 https://suno.com/s/EdjSZxP92kY1ZARN 02:28 Обзор каюты",
+          "sourceText": "🎵 https://suno.com/s/EdjSZxP92kY1ZARN",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 16
+          }
+        },
+        {
+          "videoId": "3YePZZ47k2w",
+          "videoTitle": "Что приготовили в рейс / Поменяли телефоны / Контракты на Амазоне",
+          "time": "18:51",
+          "timeIsApproximate": false,
+          "evidenceText": "18:40 Выехали в рейс на неделю 18:51 🎵 https://suno.com/s/P3HBzWzAdCHa3dES 19:23 Встретили аллигатора в озере",
+          "sourceText": "18:51 🎵 https://suno.com/s/P3HBzWzAdCHa3dES",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=3YePZZ47k2w",
+            "descriptionLine": 26
+          }
+        },
+        {
+          "videoId": "RENYc8EGDcY",
+          "videoTitle": "Пробили радиатор / Потратили $3000 на ремонт",
+          "time": "39:59",
+          "timeIsApproximate": false,
+          "evidenceText": "39:04 Как выглядят колеса через 145.000 миль 39:59 🎵 https://suno.com/s/P3HBzWzAdCHa3dES 41:15 Объезжаем пробку по дублеру",
+          "sourceText": "39:59 🎵 https://suno.com/s/P3HBzWzAdCHa3dES",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=RENYc8EGDcY",
+            "descriptionLine": 39
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Музыка про города",
+      "canonicalUrl": "https://suno.com/song/efa60ffe-d527-495c-98dd-8115871354e1",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-2",
+      "title": "Cybervelo 2",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/ce37bbd2-1300-4541-a289-7d276c01a607",
+      "sourceLinks": [
+        "https://suno.com/s/dguKMpYS35K51FiS",
+        "https://suno.com/s/MrxdmO26o3W0Zlaa"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_ce37bbd2-1300-4541-a289-7d276c01a607.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/ce37bbd2-1300-4541-a289-7d276c01a607?sh=dguKMpYS35K51FiS"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "05:56",
+          "timeIsApproximate": false,
+          "evidenceText": "02:28 Обзор каюты 05:56 🎵 https://suno.com/s/dguKMpYS35K51FiS 06:15 Короткая прогулка по лайнеру",
+          "sourceText": "05:56 🎵 https://suno.com/s/dguKMpYS35K51FiS",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 18
+          }
+        },
+        {
+          "videoId": "WNpJC4op3Mw",
+          "videoTitle": "Закопали капсулу времени / 3 этап строительства бассейна",
+          "time": "18:15",
+          "timeIsApproximate": true,
+          "evidenceText": "18:15 Следующий этап строительства бассейна. Залили площадку бетоном 🎵 https://suno.com/s/MrxdmO26o3W0Zlaa 21:16 Соседи начали строительство бассейна",
+          "sourceText": "🎵 https://suno.com/s/MrxdmO26o3W0Zlaa",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=WNpJC4op3Mw",
+            "descriptionLine": 24
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Cybervelo 2",
+      "canonicalUrl": "https://suno.com/song/ce37bbd2-1300-4541-a289-7d276c01a607",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-3",
+      "title": "Canyon Arizona",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/bea30fd9-39ca-4141-827e-a6f9eddc4095",
+      "sourceLinks": [
+        "https://suno.com/s/Zl2MyTnx9KwG8EqN",
+        "https://suno.com/s/05ntnGNDXyDpcrta"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_bea30fd9-39ca-4141-827e-a6f9eddc4095.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/bea30fd9-39ca-4141-827e-a6f9eddc4095?sh=Zl2MyTnx9KwG8EqN"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "07:32",
+          "timeIsApproximate": false,
+          "evidenceText": "06:15 Короткая прогулка по лайнеру 07:32 🎵 https://suno.com/s/Zl2MyTnx9KwG8EqN 07:46 Отправление",
+          "sourceText": "07:32 🎵 https://suno.com/s/Zl2MyTnx9KwG8EqN",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 20
+          }
+        },
+        {
+          "videoId": "WNpJC4op3Mw",
+          "videoTitle": "Закопали капсулу времени / 3 этап строительства бассейна",
+          "time": "22:55",
+          "timeIsApproximate": true,
+          "evidenceText": "22:55 Полет на квадрокоптере 🎵 https://suno.com/s/05ntnGNDXyDpcrta 24:42 Обходим владения и отвечаем на вопросы",
+          "sourceText": "🎵 https://suno.com/s/05ntnGNDXyDpcrta",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=WNpJC4op3Mw",
+            "descriptionLine": 27
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Canyon Arizona",
+      "canonicalUrl": "https://suno.com/song/bea30fd9-39ca-4141-827e-a6f9eddc4095",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-4",
+      "title": "Disco2",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/128d8e61-b487-4619-ae4b-5f3c6eab6d12",
+      "sourceLinks": [
+        "https://suno.com/s/IEZPgB9BcQkAIQMI"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_128d8e61-b487-4619-ae4b-5f3c6eab6d12.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/128d8e61-b487-4619-ae4b-5f3c6eab6d12?sh=IEZPgB9BcQkAIQMI"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "11:14",
+          "timeIsApproximate": false,
+          "evidenceText": "10:05 Первый ужин и продолжение вечера на дискотеке 11:14 🎵  https://suno.com/s/IEZPgB9BcQkAIQMI 12:23 Лайнер качает, вода из бассейна выплескивается",
+          "sourceText": "11:14 🎵  https://suno.com/s/IEZPgB9BcQkAIQMI",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 24
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Disco2",
+      "canonicalUrl": "https://suno.com/song/128d8e61-b487-4619-ae4b-5f3c6eab6d12",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-5",
+      "title": "White pass1",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/184f6e0d-fdce-4f6d-98d2-84bd20d91920",
+      "sourceLinks": [
+        "https://suno.com/s/nXi8fskENEnEIVh5"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_184f6e0d-fdce-4f6d-98d2-84bd20d91920.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/184f6e0d-fdce-4f6d-98d2-84bd20d91920?sh=nXi8fskENEnEIVh5"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "15:31",
+          "timeIsApproximate": true,
+          "evidenceText": "15:31 Второй день. Отменили высадку на острове 🎵 https://suno.com/s/nXi8fskENEnEIVh5 17:45 Джакузи, коктейли. На своем балконе джакузи лучше",
+          "sourceText": "🎵 https://suno.com/s/nXi8fskENEnEIVh5",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 27
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "White pass1",
+      "canonicalUrl": "https://suno.com/song/184f6e0d-fdce-4f6d-98d2-84bd20d91920",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-6",
+      "title": "Alaska 2026",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/067cd636-a842-4299-977d-260edcb4ffa8",
+      "sourceLinks": [
+        "https://suno.com/s/cJ7RCxMJ9HM8oqH0",
+        "https://suno.com/s/3hYzALLQogaLa2ui"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_067cd636-a842-4299-977d-260edcb4ffa8.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/067cd636-a842-4299-977d-260edcb4ffa8?sh=cJ7RCxMJ9HM8oqH0"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "17:45",
+          "timeIsApproximate": true,
+          "evidenceText": "17:45 Джакузи, коктейли. На своем балконе джакузи лучше 🎵 https://suno.com/s/cJ7RCxMJ9HM8oqH0 20:12 Идем в театр",
+          "sourceText": "🎵 https://suno.com/s/cJ7RCxMJ9HM8oqH0",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 29
+          }
+        },
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "11:10",
+          "timeIsApproximate": false,
+          "evidenceText": "🎵 https://suno.com/s/A7wfeSv0J41u7Hh9 11:10 🎵 https://suno.com/s/3hYzALLQogaLa2ui 12:40 Первый ужин. День Рождения Мишель",
+          "sourceText": "11:10 🎵 https://suno.com/s/3hYzALLQogaLa2ui",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 30
+          }
+        },
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "23:36",
+          "timeIsApproximate": false,
+          "evidenceText": "22:03 Ужин в ресторане Love 23:36 Дискотека 🎵 https://suno.com/s/3hYzALLQogaLa2ui 24:43 День 3. Город Кетчикан, Аляска",
+          "sourceText": "23:36 Дискотека 🎵 https://suno.com/s/3hYzALLQogaLa2ui",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 41
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Alaska 2026",
+      "canonicalUrl": "https://suno.com/song/067cd636-a842-4299-977d-260edcb4ffa8",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-7",
+      "title": "Night sky",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/4651b6e0-8c0e-4faf-8910-50a4973726a1",
+      "sourceLinks": [
+        "https://suno.com/s/PPVIsVL6u8FpknKW",
+        "https://suno.com/s/F59hJ4FnXZXgYv2G"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_4651b6e0-8c0e-4faf-8910-50a4973726a1.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/4651b6e0-8c0e-4faf-8910-50a4973726a1?sh=PPVIsVL6u8FpknKW"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "21:26",
+          "timeIsApproximate": false,
+          "evidenceText": "20:12 Идем в театр 21:26 🎵 https://suno.com/s/PPVIsVL6u8FpknKW 22:21 🎵 https://suno.com/s/1qs5OfTZihYb4hYb",
+          "sourceText": "21:26 🎵 https://suno.com/s/PPVIsVL6u8FpknKW",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 31
+          }
+        },
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "13:31",
+          "timeIsApproximate": false,
+          "evidenceText": "12:40 Первый ужин. День Рождения Мишель 13:31 🎵 https://suno.com/s/F59hJ4FnXZXgYv2G 14:15 Дискотека в наушниках",
+          "sourceText": "13:31 🎵 https://suno.com/s/F59hJ4FnXZXgYv2G",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 32
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Night sky",
+      "canonicalUrl": "https://suno.com/song/4651b6e0-8c0e-4faf-8910-50a4973726a1",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-8",
+      "title": "Cabaret",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/31f472ce-59f3-4d73-a9da-07f204f53ec4",
+      "sourceLinks": [
+        "https://suno.com/s/1qs5OfTZihYb4hYb"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_31f472ce-59f3-4d73-a9da-07f204f53ec4.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/31f472ce-59f3-4d73-a9da-07f204f53ec4?sh=1qs5OfTZihYb4hYb"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "22:21",
+          "timeIsApproximate": false,
+          "evidenceText": "21:26 🎵 https://suno.com/s/PPVIsVL6u8FpknKW 22:21 🎵 https://suno.com/s/1qs5OfTZihYb4hYb 22:56 По традиции оставляем уточек",
+          "sourceText": "22:21 🎵 https://suno.com/s/1qs5OfTZihYb4hYb",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 32
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Cabaret",
+      "canonicalUrl": "https://suno.com/song/31f472ce-59f3-4d73-a9da-07f204f53ec4",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-9",
+      "title": "Disco",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/3fbba792-72a6-4673-a332-8ac82ccb04ac",
+      "sourceLinks": [
+        "https://suno.com/s/yJWiAoUcUJiDqmsK"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_3fbba792-72a6-4673-a332-8ac82ccb04ac.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/3fbba792-72a6-4673-a332-8ac82ccb04ac?sh=yJWiAoUcUJiDqmsK"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "23:41",
+          "timeIsApproximate": true,
+          "evidenceText": "23:41 Дискотека 🎵 https://suno.com/s/yJWiAoUcUJiDqmsK 24:09 Подарили именную монетку на удачу нашей подписчице",
+          "sourceText": "🎵 https://suno.com/s/yJWiAoUcUJiDqmsK",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 35
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Disco",
+      "canonicalUrl": "https://suno.com/song/3fbba792-72a6-4673-a332-8ac82ccb04ac",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-10",
+      "title": "Ocean vibes 1",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/0c95afc1-2c44-4d73-9980-29a2da42c061",
+      "sourceLinks": [
+        "https://suno.com/s/Xkx1Pt1GnRGZYP9c"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_0c95afc1-2c44-4d73-9980-29a2da42c061.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/0c95afc1-2c44-4d73-9980-29a2da42c061?sh=Xkx1Pt1GnRGZYP9c"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "25:45",
+          "timeIsApproximate": true,
+          "evidenceText": "25:45 И снова танцы 🎵 https://suno.com/s/Xkx1Pt1GnRGZYP9c 26:43 Прибыли на Нассау. Местный колорит",
+          "sourceText": "🎵 https://suno.com/s/Xkx1Pt1GnRGZYP9c",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 38
+          }
+        },
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "38:42",
+          "timeIsApproximate": false,
+          "evidenceText": "35:39 Нашли хороший пляж 38:42 🎵 https://suno.com/s/Xkx1Pt1GnRGZYP9c 39:07 Пришли в аквапарк",
+          "sourceText": "38:42 🎵 https://suno.com/s/Xkx1Pt1GnRGZYP9c",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 42
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Ocean vibes 1",
+      "canonicalUrl": "https://suno.com/song/0c95afc1-2c44-4d73-9980-29a2da42c061",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-11",
+      "title": "Alaska Viking",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/8b8b42cf-6071-453f-b4f8-ccd51a2a4961",
+      "sourceLinks": [
+        "https://suno.com/s/kmnBAtlT71ooZjQG",
+        "https://suno.com/s/ZkOVUxFBg9jmHOYE"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_8b8b42cf-6071-453f-b4f8-ccd51a2a4961.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/8b8b42cf-6071-453f-b4f8-ccd51a2a4961?sh=kmnBAtlT71ooZjQG"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "27:54",
+          "timeIsApproximate": false,
+          "evidenceText": "26:43 Прибыли на Нассау. Местный колорит 27:54 🎵 https://suno.com/s/kmnBAtlT71ooZjQG 35:39 Нашли хороший пляж",
+          "sourceText": "27:54 🎵 https://suno.com/s/kmnBAtlT71ooZjQG",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 40
+          }
+        },
+        {
+          "videoId": "c67MP7GkZTQ",
+          "videoTitle": "Дальнобой по США / Встретили подписчиков",
+          "time": "32:09",
+          "timeIsApproximate": false,
+          "evidenceText": "30:59 Снова макдак 32:09 🎵 https://suno.com/s/ZkOVUxFBg9jmHOYE 33:17 Сломали технику и поехали домой 😁",
+          "sourceText": "32:09 🎵 https://suno.com/s/ZkOVUxFBg9jmHOYE",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+            "descriptionLine": 33
+          }
+        },
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "17:06",
+          "timeIsApproximate": false,
+          "evidenceText": "16:05 День 2. Качка на лайнере 17:06 🎵 https://suno.com/s/ZkOVUxFBg9jmHOYE 18:02 Дарим подписчикам нашу монетку на удачу",
+          "sourceText": "17:06 🎵 https://suno.com/s/ZkOVUxFBg9jmHOYE",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 36
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Alaska Viking",
+      "canonicalUrl": "https://suno.com/song/8b8b42cf-6071-453f-b4f8-ccd51a2a4961",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-12",
+      "title": "Dance",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/7bfe4fe3-d134-4c5a-a9bf-b9193d2a9649",
+      "sourceLinks": [
+        "https://suno.com/s/e1a4ufxCuwA0RI6e"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_7bfe4fe3-d134-4c5a-a9bf-b9193d2a9649.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/7bfe4fe3-d134-4c5a-a9bf-b9193d2a9649?sh=e1a4ufxCuwA0RI6e"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "41:42",
+          "timeIsApproximate": false,
+          "evidenceText": "41:09 Ужин. Белая вечеринка 41:42 🎵 https://suno.com/s/e1a4ufxCuwA0RI6e 🎵 https://suno.com/s/q33XowPh1pyqVuW0",
+          "sourceText": "41:42 🎵 https://suno.com/s/e1a4ufxCuwA0RI6e",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 45
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Dance",
+      "canonicalUrl": "https://suno.com/song/7bfe4fe3-d134-4c5a-a9bf-b9193d2a9649",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-13",
+      "title": "Night lights",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/f2fe2ebb-db35-4a91-afd9-bbd6603ec409",
+      "sourceLinks": [
+        "https://suno.com/s/q33XowPh1pyqVuW0"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_f2fe2ebb-db35-4a91-afd9-bbd6603ec409.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/f2fe2ebb-db35-4a91-afd9-bbd6603ec409?sh=q33XowPh1pyqVuW0"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "41:42",
+          "timeIsApproximate": true,
+          "evidenceText": "41:42 🎵 https://suno.com/s/e1a4ufxCuwA0RI6e 🎵 https://suno.com/s/q33XowPh1pyqVuW0 42:47 Новый день на лайнере. Идем в СПА",
+          "sourceText": "🎵 https://suno.com/s/q33XowPh1pyqVuW0",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 46
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Night lights",
+      "canonicalUrl": "https://suno.com/song/f2fe2ebb-db35-4a91-afd9-bbd6603ec409",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-14",
+      "title": "Disco 70th",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/aaf94c59-84ee-4466-92f0-1dfb429328c6",
+      "sourceLinks": [
+        "https://suno.com/s/HImL00f5YX0sXviS"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_aaf94c59-84ee-4466-92f0-1dfb429328c6.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/aaf94c59-84ee-4466-92f0-1dfb429328c6?sh=HImL00f5YX0sXviS"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "45:50",
+          "timeIsApproximate": false,
+          "evidenceText": "44:45 Ужин и последняя дискотека в этом круизе 45:50 🎵 https://suno.com/s/HImL00f5YX0sXviS 47:09 🎵 https://suno.com/s/6SVLkPl5WdzkXjJs",
+          "sourceText": "45:50 🎵 https://suno.com/s/HImL00f5YX0sXviS",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 49
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Disco 70th",
+      "canonicalUrl": "https://suno.com/song/aaf94c59-84ee-4466-92f0-1dfb429328c6",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-15",
+      "title": "One more dance",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/7803e4bb-2d9b-46b4-b259-f9ddf5c66fd6",
+      "sourceLinks": [
+        "https://suno.com/s/6SVLkPl5WdzkXjJs"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_7803e4bb-2d9b-46b4-b259-f9ddf5c66fd6.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/7803e4bb-2d9b-46b4-b259-f9ddf5c66fd6?sh=6SVLkPl5WdzkXjJs"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "47:09",
+          "timeIsApproximate": false,
+          "evidenceText": "45:50 🎵 https://suno.com/s/HImL00f5YX0sXviS 47:09 🎵 https://suno.com/s/6SVLkPl5WdzkXjJs 48:40 🎵 https://suno.com/s/Cduem5sYcdEp8NT7",
+          "sourceText": "47:09 🎵 https://suno.com/s/6SVLkPl5WdzkXjJs",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 50
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "One more dance",
+      "canonicalUrl": "https://suno.com/song/7803e4bb-2d9b-46b4-b259-f9ddf5c66fd6",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-16",
+      "title": "AR",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/db87dd97-5fa3-4112-b422-d95214c2349a",
+      "sourceLinks": [
+        "https://suno.com/s/Cduem5sYcdEp8NT7",
+        "https://suno.com/s/c394bbREj3k9lAdk"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_db87dd97-5fa3-4112-b422-d95214c2349a.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/db87dd97-5fa3-4112-b422-d95214c2349a?sh=Cduem5sYcdEp8NT7"
+      },
+      "mentions": [
+        {
+          "videoId": "hMstmrlZtDY",
+          "videoTitle": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
+          "time": "48:40",
+          "timeIsApproximate": false,
+          "evidenceText": "47:09 🎵 https://suno.com/s/6SVLkPl5WdzkXjJs 48:40 🎵 https://suno.com/s/Cduem5sYcdEp8NT7",
+          "sourceText": "48:40 🎵 https://suno.com/s/Cduem5sYcdEp8NT7",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=hMstmrlZtDY",
+            "descriptionLine": 51
+          }
+        },
+        {
+          "videoId": "RENYc8EGDcY",
+          "videoTitle": "Пробили радиатор / Потратили $3000 на ремонт",
+          "time": "38:40",
+          "timeIsApproximate": false,
+          "evidenceText": "33:23 Остановка для проверки трака. Цена ремонта 38:40 🎵 https://suno.com/s/c394bbREj3k9lAdk 39:04 Как выглядят колеса через 145.000 миль",
+          "sourceText": "38:40 🎵 https://suno.com/s/c394bbREj3k9lAdk",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=RENYc8EGDcY",
+            "descriptionLine": 37
+          }
+        },
+        {
+          "videoId": "rtS1yT7v5GQ",
+          "videoTitle": "С работы на гонки в Оклахоме / Последний контракт этим летом",
+          "time": "10:57",
+          "timeIsApproximate": false,
+          "evidenceText": "09:48 Такой жары ещё не было 10:57 🎵 https://suno.com/s/c394bbREj3k9lAdk 11:20 Попали на гонки в Оклахоме",
+          "sourceText": "10:57 🎵 https://suno.com/s/c394bbREj3k9lAdk",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=rtS1yT7v5GQ",
+            "descriptionLine": 26
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "AR",
+      "canonicalUrl": "https://suno.com/song/db87dd97-5fa3-4112-b422-d95214c2349a",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-17",
+      "title": "Watch",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31",
+      "sourceLinks": [
+        "https://suno.com/s/OMTsSSfX6r9ktPJH",
+        "https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_e61f5270-bc02-4bda-b502-4e63ee5c1f31.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31?sh=OMTsSSfX6r9ktPJH"
+      },
+      "mentions": [
+        {
+          "videoId": "fQXwvTVMrrw",
+          "videoTitle": "Сделали скрин над бассейном / 4 этап строительства бассейна",
+          "time": "18:49",
+          "timeIsApproximate": true,
+          "evidenceText": "18:49 Полет на квадрокоптере 🎵 https://suno.com/s/OMTsSSfX6r9ktPJH 20:35 Какой бассейн будет у соседей",
+          "sourceText": "🎵 https://suno.com/s/OMTsSSfX6r9ktPJH",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=fQXwvTVMrrw",
+            "descriptionLine": 36
+          }
+        },
+        {
+          "videoId": "WNpJC4op3Mw",
+          "videoTitle": "Закопали капсулу времени / 3 этап строительства бассейна",
+          "time": "04:48",
+          "timeIsApproximate": true,
+          "evidenceText": "04:48 Процесс сборки 🎵 https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31 09:50 Исторический момент - закопали капсулу",
+          "sourceText": "🎵 https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=WNpJC4op3Mw",
+            "descriptionLine": 19
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Watch",
+      "canonicalUrl": "https://suno.com/song/e61f5270-bc02-4bda-b502-4e63ee5c1f31",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-18",
+      "title": "Miami",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1a4855d8-6cc3-4f95-af40-bb040b447895",
+      "sourceLinks": [
+        "https://suno.com/s/l6hlgdLkbzkShjo7",
+        "https://suno.com/s/NCveBDuTDz77LTTa"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1a4855d8-6cc3-4f95-af40-bb040b447895.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1a4855d8-6cc3-4f95-af40-bb040b447895?sh=l6hlgdLkbzkShjo7"
+      },
+      "mentions": [
+        {
+          "videoId": "fQXwvTVMrrw",
+          "videoTitle": "Сделали скрин над бассейном / 4 этап строительства бассейна",
+          "time": "24:58",
+          "timeIsApproximate": false,
+          "evidenceText": "23:32 Начали устанавливать скрин над бассейном 24:58 🎵 https://suno.com/s/l6hlgdLkbzkShjo7 28:10 Столько сделали за 1 день",
+          "sourceText": "24:58 🎵 https://suno.com/s/l6hlgdLkbzkShjo7",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=fQXwvTVMrrw",
+            "descriptionLine": 41
+          }
+        },
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "04:36",
+          "timeIsApproximate": false,
+          "evidenceText": "01:04 Массовая проверка дальнобойщиков и их траков 04:36 🎵 https://suno.com/s/NCveBDuTDz77LTTa 05:15 Красивая магнолия на рест эрии",
+          "sourceText": "04:36 🎵 https://suno.com/s/NCveBDuTDz77LTTa",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 17
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Miami",
+      "canonicalUrl": "https://suno.com/song/1a4855d8-6cc3-4f95-af40-bb040b447895",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-19",
+      "title": "Velo",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/540dbb82-2b07-4195-a06e-428e93c3558e",
+      "sourceLinks": [
+        "https://suno.com/s/ssalLfTLE1iCwn4U"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_540dbb82-2b07-4195-a06e-428e93c3558e.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/540dbb82-2b07-4195-a06e-428e93c3558e?sh=ssalLfTLE1iCwn4U"
+      },
+      "mentions": [
+        {
+          "videoId": "WNpJC4op3Mw",
+          "videoTitle": "Закопали капсулу времени / 3 этап строительства бассейна",
+          "time": "10:28",
+          "timeIsApproximate": false,
+          "evidenceText": "09:50 Исторический момент - закопали капсулу 10:28 🎵 https://suno.com/s/ssalLfTLE1iCwn4U 12:09 Зачитываем послание для будущих поколений",
+          "sourceText": "10:28 🎵 https://suno.com/s/ssalLfTLE1iCwn4U",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=WNpJC4op3Mw",
+            "descriptionLine": 21
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Velo",
+      "canonicalUrl": "https://suno.com/song/540dbb82-2b07-4195-a06e-428e93c3558e",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-20",
+      "title": "Beautiful Alaska",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1066061b-5b21-4e3a-a763-2e5a18f44e86",
+      "sourceLinks": [
+        "https://suno.com/s/pXPuFLA7h2GZbb1L"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1066061b-5b21-4e3a-a763-2e5a18f44e86.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1066061b-5b21-4e3a-a763-2e5a18f44e86?sh=pXPuFLA7h2GZbb1L"
+      },
+      "mentions": [
+        {
+          "videoId": "c67MP7GkZTQ",
+          "videoTitle": "Дальнобой по США / Встретили подписчиков",
+          "time": "04:38",
+          "timeIsApproximate": false,
+          "evidenceText": "02:23 Вот это нежданчик! 04:38 🎵 https://suno.com/s/pXPuFLA7h2GZbb1L 05:11 Огромные тыквы",
+          "sourceText": "04:38 🎵 https://suno.com/s/pXPuFLA7h2GZbb1L",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+            "descriptionLine": 18
+          }
+        },
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "38:23",
+          "timeIsApproximate": false,
+          "evidenceText": "37:19 Третий ужин 38:23 День 4 🎵 https://suno.com/s/pXPuFLA7h2GZbb1L 40:02 Город Juneau. Нам отменили экскурсию из-за погоды",
+          "sourceText": "38:23 День 4 🎵 https://suno.com/s/pXPuFLA7h2GZbb1L",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 50
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Beautiful Alaska",
+      "canonicalUrl": "https://suno.com/song/1066061b-5b21-4e3a-a763-2e5a18f44e86",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-21",
+      "title": "Горы Калифорнии",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/9c5cac0e-e8b8-4847-b04e-95f92aa36a2a",
+      "sourceLinks": [
+        "https://suno.com/s/lkhG7avZ0tCDiArP"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_9c5cac0e-e8b8-4847-b04e-95f92aa36a2a.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/9c5cac0e-e8b8-4847-b04e-95f92aa36a2a?sh=lkhG7avZ0tCDiArP"
+      },
+      "mentions": [
+        {
+          "videoId": "c67MP7GkZTQ",
+          "videoTitle": "Дальнобой по США / Встретили подписчиков",
+          "time": "23:04",
+          "timeIsApproximate": false,
+          "evidenceText": "20:17 Пирожки от «From Russia with love» 23:04 🎵 https://suno.com/s/lkhG7avZ0tCDiArP 25:52 Мойка трака на Love’s",
+          "sourceText": "23:04 🎵 https://suno.com/s/lkhG7avZ0tCDiArP",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+            "descriptionLine": 30
+          }
+        },
+        {
+          "videoId": "RENYc8EGDcY",
+          "videoTitle": "Пробили радиатор / Потратили $3000 на ремонт",
+          "time": "09:37",
+          "timeIsApproximate": false,
+          "evidenceText": "06:18 Какая разная погода в Калифорнии 09:37 🎵 https://suno.com/s/lkhG7avZ0tCDiArP 10:26 Обнаружили утечку антифриза",
+          "sourceText": "09:37 🎵 https://suno.com/s/lkhG7avZ0tCDiArP",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=RENYc8EGDcY",
+            "descriptionLine": 25
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "05:12",
+          "timeIsApproximate": false,
+          "evidenceText": "03:54 Мы в Калифорнии 05:12 🎵 https://suno.com/s/lkhG7avZ0tCDiArP 06:11 Попали в рой мошкары",
+          "sourceText": "05:12 🎵 https://suno.com/s/lkhG7avZ0tCDiArP",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 20
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Горы Калифорнии",
+      "canonicalUrl": "https://suno.com/song/9c5cac0e-e8b8-4847-b04e-95f92aa36a2a",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-22",
+      "title": "Texas lyrics",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/b4b7e1de-8e74-4af7-a761-cd7e1c968562",
+      "sourceLinks": [
+        "https://suno.com/s/c3SNvEUB6jrtfIWJ"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_b4b7e1de-8e74-4af7-a761-cd7e1c968562.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/b4b7e1de-8e74-4af7-a761-cd7e1c968562?sh=c3SNvEUB6jrtfIWJ"
+      },
+      "mentions": [
+        {
+          "videoId": "3YePZZ47k2w",
+          "videoTitle": "Что приготовили в рейс / Поменяли телефоны / Контракты на Амазоне",
+          "time": "25:17",
+          "timeIsApproximate": false,
+          "evidenceText": "22:47 Кортеж Трампа в Техасе 25:17 🎵 https://suno.com/s/c3SNvEUB6jrtfIWJ 26:02 Замена масла в 6 утра",
+          "sourceText": "25:17 🎵 https://suno.com/s/c3SNvEUB6jrtfIWJ",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=3YePZZ47k2w",
+            "descriptionLine": 31
+          }
+        },
+        {
+          "videoId": "RENYc8EGDcY",
+          "videoTitle": "Пробили радиатор / Потратили $3000 на ремонт",
+          "time": "44:27",
+          "timeIsApproximate": false,
+          "evidenceText": "42:22 Вот это нас занесло на объезд 44:27 🎵 https://suno.com/s/c3SNvEUB6jrtfIWJ 45:07 Дегустация нашумевшего мороженого из Тик Ток",
+          "sourceText": "44:27 🎵 https://suno.com/s/c3SNvEUB6jrtfIWJ",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=RENYc8EGDcY",
+            "descriptionLine": 42
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Texas lyrics",
+      "canonicalUrl": "https://suno.com/song/b4b7e1de-8e74-4af7-a761-cd7e1c968562",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-23",
+      "title": "Always remember us this way",
+      "artist": "D J Lunin",
+      "listenUrl": "https://www.youtube.com/watch?v=JYlzGRv2wj4",
+      "sourceLinks": [
+        "https://youtu.be/JYlzGRv2wj4?is=tPyC9_CAziOY1JBX"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/JYlzGRv2wj4/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=JYlzGRv2wj4"
+      },
+      "mentions": [
+        {
+          "videoId": "AgAbY3alNxI",
+          "videoTitle": "Пробег 800.000 миль / Чего ожидать от трака / Контракты на Амазоне",
+          "time": "39:10",
+          "timeIsApproximate": true,
+          "evidenceText": "39:10 Красивая песня от DJ Lunin @Виталий_Лунин https://youtu.be/JYlzGRv2wj4?is=tPyC9_CAziOY1JBX 40:47 Мы в Далласе, пустая база",
+          "sourceText": "https://youtu.be/JYlzGRv2wj4?is=tPyC9_CAziOY1JBX",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AgAbY3alNxI",
+            "descriptionLine": 35
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Always remember us this way (Soblazn Studio vs. D.J.Lunin)",
+      "platformAuthor": "D J Lunin",
+      "creatorUrl": "https://www.youtube.com/@%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9B%D1%83%D0%BD%D0%B8%D0%BD",
+      "canonicalUrl": "https://www.youtube.com/watch?v=JYlzGRv2wj4",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-24",
+      "title": "Большие города",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1f560061-dfab-46e7-b328-c7384b7650d1",
+      "sourceLinks": [
+        "https://suno.com/s/4WxnyvgpGszMIuqr"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1f560061-dfab-46e7-b328-c7384b7650d1.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1f560061-dfab-46e7-b328-c7384b7650d1?sh=4WxnyvgpGszMIuqr"
+      },
+      "mentions": [
+        {
+          "videoId": "AgAbY3alNxI",
+          "videoTitle": "Пробег 800.000 миль / Чего ожидать от трака / Контракты на Амазоне",
+          "time": "47:01",
+          "timeIsApproximate": true,
+          "evidenceText": "47:01 🎵 Большие города не спят https://suno.com/s/4WxnyvgpGszMIuqr 48:17 Встретили нашего зрителя на базе Амазон",
+          "sourceText": "https://suno.com/s/4WxnyvgpGszMIuqr",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AgAbY3alNxI",
+            "descriptionLine": 39
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "16:30",
+          "timeIsApproximate": false,
+          "evidenceText": "15:23 Даллас, Техас 16:30 🎵 https://suno.com/s/4WxnyvgpGszMIuqr 18:22 Начали новый контракт",
+          "sourceText": "16:30 🎵 https://suno.com/s/4WxnyvgpGszMIuqr",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 30
+          }
+        },
+        {
+          "videoId": "K9JWxF4kqeA",
+          "videoTitle": "Поменяли коробку передач по гарантии / Удачно заехали в сервис",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 Большие города не спят: https://suno.com/s/4WxnyvgpGszMIuqr",
+          "sourceText": "🎵 Большие города не спят: https://suno.com/s/4WxnyvgpGszMIuqr",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=K9JWxF4kqeA",
+            "descriptionLine": 19
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Большие города",
+      "canonicalUrl": "https://suno.com/song/1f560061-dfab-46e7-b328-c7384b7650d1",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-25",
+      "title": "Noon Road",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/b1db66ce-986e-4b0d-8114-e2b90ff78896",
+      "sourceLinks": [
+        "https://suno.com/s/yYLWqSFdv81It2TW"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_b1db66ce-986e-4b0d-8114-e2b90ff78896.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/b1db66ce-986e-4b0d-8114-e2b90ff78896?sh=yYLWqSFdv81It2TW"
+      },
+      "mentions": [
+        {
+          "videoId": "RENYc8EGDcY",
+          "videoTitle": "Пробили радиатор / Потратили $3000 на ремонт",
+          "time": "05:59",
+          "timeIsApproximate": false,
+          "evidenceText": "05:17 Забираем трейлер во Флориде и едем в Калифорнию 05:59 🎵 https://suno.com/s/yYLWqSFdv81It2TW 06:18 Какая разная погода в Калифорнии",
+          "sourceText": "05:59 🎵 https://suno.com/s/yYLWqSFdv81It2TW",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=RENYc8EGDcY",
+            "descriptionLine": 23
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "13:19",
+          "timeIsApproximate": false,
+          "evidenceText": "12:15 Заехали на мойку и пошел ливень 13:19 🎵 https://suno.com/s/yYLWqSFdv81It2TW 14:39 Никто не открывает, куда деть груз?",
+          "sourceText": "13:19 🎵 https://suno.com/s/yYLWqSFdv81It2TW",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 27
+          }
+        },
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "30:13",
+          "timeIsApproximate": false,
+          "evidenceText": "26:28 Ещё одна проверка DOT 30:13 🎵 https://suno.com/s/yYLWqSFdv81It2TW 30:36 Ремонт дороги по всем штатам",
+          "sourceText": "30:13 🎵 https://suno.com/s/yYLWqSFdv81It2TW",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 30
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Noon Road",
+      "canonicalUrl": "https://suno.com/song/b1db66ce-986e-4b0d-8114-e2b90ff78896",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-26",
+      "title": "Desert Highway",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/23a9372f-f06e-4287-a227-98bbaa4bccc0",
+      "sourceLinks": [
+        "https://suno.com/s/wPQR5NoOYcwfWV3u"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_23a9372f-f06e-4287-a227-98bbaa4bccc0.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/23a9372f-f06e-4287-a227-98bbaa4bccc0?sh=wPQR5NoOYcwfWV3u"
+      },
+      "mentions": [
+        {
+          "videoId": "rtS1yT7v5GQ",
+          "videoTitle": "С работы на гонки в Оклахоме / Последний контракт этим летом",
+          "time": "02:10",
+          "timeIsApproximate": false,
+          "evidenceText": "00:01 Забираем первый груз на этой неделе 02:10 🎵 https://suno.com/s/wPQR5NoOYcwfWV3u 02:25 Большая зона отдыха в Техасе",
+          "sourceText": "02:10 🎵 https://suno.com/s/wPQR5NoOYcwfWV3u",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=rtS1yT7v5GQ",
+            "descriptionLine": 17
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "23:25",
+          "timeIsApproximate": false,
+          "evidenceText": "23:11 Какой красивый трак 23:25 🎵 https://suno.com/s/wPQR5NoOYcwfWV3u 24:17 Город Луисвилл, Кентукки",
+          "sourceText": "23:25 🎵 https://suno.com/s/wPQR5NoOYcwfWV3u",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 37
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Desert Highway",
+      "canonicalUrl": "https://suno.com/song/23a9372f-f06e-4287-a227-98bbaa4bccc0",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-27",
+      "title": "On Radio Waves",
+      "artist": "D.J. Lunin",
+      "listenUrl": "https://www.youtube.com/watch?v=nnJXexRVPS4",
+      "sourceLinks": [
+        "https://youtu.be/nnJXexRVPS4?is=oCJqm_DVE-8NyhLE",
+        "https://youtu.be/nnJXexRVPS4?si=QL1FTiw5eHIGmNNk"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/nnJXexRVPS4/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=nnJXexRVPS4"
+      },
+      "mentions": [
+        {
+          "videoId": "rtS1yT7v5GQ",
+          "videoTitle": "С работы на гонки в Оклахоме / Последний контракт этим летом",
+          "time": "03:40",
+          "timeIsApproximate": false,
+          "evidenceText": "02:25 Большая зона отдыха в Техасе 03:40 🎵 D.J. Lunin - On Radio Waves https://youtu.be/nnJXexRVPS4?is=oCJqm_DVE-8NyhLE 04:54 Это вороны или собаки?",
+          "sourceText": "03:40 🎵 D.J. Lunin - On Radio Waves https://youtu.be/nnJXexRVPS4?is=oCJqm_DVE-8NyhLE",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=rtS1yT7v5GQ",
+            "descriptionLine": 19
+          }
+        },
+        {
+          "videoId": "ONL86L7mHQk",
+          "videoTitle": "Контракты на Амазоне / Встретились с ЖеЛе / Заболели в дороге",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 D.J. Lunin - On Radio Waves https://youtu.be/nnJXexRVPS4?si=QL1FTiw5eHIGmNNk",
+          "sourceText": "🎵 D.J. Lunin - On Radio Waves https://youtu.be/nnJXexRVPS4?si=QL1FTiw5eHIGmNNk",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=ONL86L7mHQk",
+            "descriptionLine": 18
+          }
+        }
+      ],
+      "sourceCredit": "D.J. Lunin - On Radio Waves",
+      "platformTitle": "D.J.Lunin - On radio waves (На радио волнах-Soblazn Studio)",
+      "platformAuthor": "D J Lunin",
+      "creatorUrl": "https://www.youtube.com/@%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9B%D1%83%D0%BD%D0%B8%D0%BD",
+      "canonicalUrl": "https://www.youtube.com/watch?v=nnJXexRVPS4",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-28",
+      "title": "Arizona stones",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/f969758d-b3b4-4589-8d5d-87c3e2fa2668",
+      "sourceLinks": [
+        "https://suno.com/s/nMTRcrBklWkGxASv"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_f969758d-b3b4-4589-8d5d-87c3e2fa2668.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/f969758d-b3b4-4589-8d5d-87c3e2fa2668?sh=nMTRcrBklWkGxASv"
+      },
+      "mentions": [
+        {
+          "videoId": "rtS1yT7v5GQ",
+          "videoTitle": "С работы на гонки в Оклахоме / Последний контракт этим летом",
+          "time": "06:33",
+          "timeIsApproximate": false,
+          "evidenceText": "05:36 Огромная пробка на спуске в Калифорнии 06:33 🎵 https://suno.com/s/nMTRcrBklWkGxASv 06:48 Электрический трак",
+          "sourceText": "06:33 🎵 https://suno.com/s/nMTRcrBklWkGxASv",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=rtS1yT7v5GQ",
+            "descriptionLine": 22
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "08:08",
+          "timeIsApproximate": false,
+          "evidenceText": "07:30 В это время дома происходит… 08:08 🎵 https://suno.com/s/nMTRcrBklWkGxASv 08:19 Потеряли брызговик",
+          "sourceText": "08:08 🎵 https://suno.com/s/nMTRcrBklWkGxASv",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 23
+          }
+        },
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "11:55",
+          "timeIsApproximate": false,
+          "evidenceText": "08:19 Потеряли брызговик 11:55 🎵 https://suno.com/s/nMTRcrBklWkGxASv 12:15 Заехали на мойку и пошел ливень",
+          "sourceText": "11:55 🎵 https://suno.com/s/nMTRcrBklWkGxASv",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 25
+          }
+        },
+        {
+          "videoId": "K9JWxF4kqeA",
+          "videoTitle": "Поменяли коробку передач по гарантии / Удачно заехали в сервис",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 Камни в Аризоне: https://suno.com/s/nMTRcrBklWkGxASv",
+          "sourceText": "🎵 Камни в Аризоне: https://suno.com/s/nMTRcrBklWkGxASv",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=K9JWxF4kqeA",
+            "descriptionLine": 21
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Arizona stones",
+      "canonicalUrl": "https://suno.com/song/f969758d-b3b4-4589-8d5d-87c3e2fa2668",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-29",
+      "title": "Burn It All",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/78c6b099-3583-41da-9865-550232d92a6f",
+      "sourceLinks": [
+        "https://suno.com/s/IG8XXAWaTmRRnOFW"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_78c6b099-3583-41da-9865-550232d92a6f.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/78c6b099-3583-41da-9865-550232d92a6f?sh=IG8XXAWaTmRRnOFW"
+      },
+      "mentions": [
+        {
+          "videoId": "rtS1yT7v5GQ",
+          "videoTitle": "С работы на гонки в Оклахоме / Последний контракт этим летом",
+          "time": "18:36",
+          "timeIsApproximate": false,
+          "evidenceText": "11:20 Попали на гонки в Оклахоме 18:36 🎵 https://suno.com/s/IG8XXAWaTmRRnOFW 31:03 Завтрак в iHop",
+          "sourceText": "18:36 🎵 https://suno.com/s/IG8XXAWaTmRRnOFW",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=rtS1yT7v5GQ",
+            "descriptionLine": 28
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Burn It All",
+      "canonicalUrl": "https://suno.com/song/78c6b099-3583-41da-9865-550232d92a6f",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-30",
+      "title": "Night sky 1",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/cf32562b-4fb6-404d-aca0-f0ebc1305daf",
+      "sourceLinks": [
+        "https://suno.com/s/MwgJJm3nEdJKv8hT"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_cf32562b-4fb6-404d-aca0-f0ebc1305daf.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/cf32562b-4fb6-404d-aca0-f0ebc1305daf?sh=MwgJJm3nEdJKv8hT"
+      },
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "03:23",
+          "timeIsApproximate": false,
+          "evidenceText": "02:24 Забираем первый трейлер 03:23 🎵 https://suno.com/s/MwgJJm3nEdJKv8hT 03:54 Мы в Калифорнии",
+          "sourceText": "03:23 🎵 https://suno.com/s/MwgJJm3nEdJKv8hT",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 18
+          }
+        },
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "31:06",
+          "timeIsApproximate": false,
+          "evidenceText": "30:36 Ремонт дороги по всем штатам 31:06 🎵 https://suno.com/s/MwgJJm3nEdJKv8hT 31:39 Попали в дождевой шторм",
+          "sourceText": "31:06 🎵 https://suno.com/s/MwgJJm3nEdJKv8hT",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 32
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Night sky 1",
+      "canonicalUrl": "https://suno.com/song/cf32562b-4fb6-404d-aca0-f0ebc1305daf",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-31",
+      "title": "Wyoming",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/59411d28-a112-4702-a7af-502c11dd3b69",
+      "sourceLinks": [
+        "https://suno.com/s/6q2oBBh8iI3GWKyc"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_59411d28-a112-4702-a7af-502c11dd3b69.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/59411d28-a112-4702-a7af-502c11dd3b69?sh=6q2oBBh8iI3GWKyc"
+      },
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "53:06",
+          "timeIsApproximate": false,
+          "evidenceText": "51:31 Масло меняли 2 часа 53:06 🎵 https://suno.com/s/6q2oBBh8iI3GWKyc 53:19 Оторвало теперь другой брызговик",
+          "sourceText": "53:06 🎵 https://suno.com/s/6q2oBBh8iI3GWKyc",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 51
+          }
+        },
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "39:15",
+          "timeIsApproximate": false,
+          "evidenceText": "38:26 Снова нас настиг дождь 39:15 🎵 https://suno.com/s/6q2oBBh8iI3GWKyc 39:39 Встретили ещё одного нашего зрителя",
+          "sourceText": "39:15 🎵 https://suno.com/s/6q2oBBh8iI3GWKyc",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 37
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Wyoming",
+      "canonicalUrl": "https://suno.com/song/59411d28-a112-4702-a7af-502c11dd3b69",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-32",
+      "title": "Cinematic desert road trip",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/4bf0c0bd-f92d-4d74-949b-4155194538b8",
+      "sourceLinks": [
+        "https://suno.com/s/0sHFawMpUFvGBauU"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_4bf0c0bd-f92d-4d74-949b-4155194538b8.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/4bf0c0bd-f92d-4d74-949b-4155194538b8?sh=0sHFawMpUFvGBauU"
+      },
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "1:01:01",
+          "timeIsApproximate": false,
+          "evidenceText": "59:28 Поворот не туда 1:01:01 - 🎵 https://suno.com/s/0sHFawMpUFvGBauU 1:02:09 - В Аризоне +40",
+          "sourceText": "1:01:01 - 🎵 https://suno.com/s/0sHFawMpUFvGBauU",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 56
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Cinematic desert road trip",
+      "canonicalUrl": "https://suno.com/song/4bf0c0bd-f92d-4d74-949b-4155194538b8",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-33",
+      "title": "Saguaro",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/db4592c3-d4ec-4b98-a9a0-517f47c0f4f2",
+      "sourceLinks": [
+        "https://suno.com/s/ToE7sMAJZcB41gdc"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_db4592c3-d4ec-4b98-a9a0-517f47c0f4f2.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/db4592c3-d4ec-4b98-a9a0-517f47c0f4f2?sh=ToE7sMAJZcB41gdc"
+      },
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "1:03:30",
+          "timeIsApproximate": false,
+          "evidenceText": "1:02:09 - В Аризоне +40 1:03:30 🎵 https://suno.com/s/ToE7sMAJZcB41gdc 1:04:20 - Машину перевернуло на дороге",
+          "sourceText": "1:03:30 🎵 https://suno.com/s/ToE7sMAJZcB41gdc",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 58
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Saguaro",
+      "canonicalUrl": "https://suno.com/song/db4592c3-d4ec-4b98-a9a0-517f47c0f4f2",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-34",
+      "title": "Friends Meeting",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1c9c0f68-93b4-4ec4-a3b3-533688c539ee",
+      "sourceLinks": [
+        "https://suno.com/s/A7wfeSv0J41u7Hh9"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1c9c0f68-93b4-4ec4-a3b3-533688c539ee.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1c9c0f68-93b4-4ec4-a3b3-533688c539ee?sh=A7wfeSv0J41u7Hh9"
+      },
+      "mentions": [
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "10:08",
+          "timeIsApproximate": true,
+          "evidenceText": "10:08 Встреча с друзьями 🎵 https://suno.com/s/A7wfeSv0J41u7Hh9 11:10 🎵 https://suno.com/s/3hYzALLQogaLa2ui",
+          "sourceText": "🎵 https://suno.com/s/A7wfeSv0J41u7Hh9",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 29
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Friends Meeting",
+      "canonicalUrl": "https://suno.com/song/1c9c0f68-93b4-4ec4-a3b3-533688c539ee",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-35",
+      "title": "View from the ship",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/a3d2dc5d-ff7d-4919-b1ec-e137f01c7e2d",
+      "sourceLinks": [
+        "https://suno.com/s/n0q1J9BWxgtDN0gA"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_a3d2dc5d-ff7d-4919-b1ec-e137f01c7e2d.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/a3d2dc5d-ff7d-4919-b1ec-e137f01c7e2d?sh=n0q1J9BWxgtDN0gA"
+      },
+      "mentions": [
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "36:16",
+          "timeIsApproximate": false,
+          "evidenceText": "35:31 Обзор каюты наших друзей 36:16 🎵 https://suno.com/s/n0q1J9BWxgtDN0gA 37:19 Третий ужин",
+          "sourceText": "36:16 🎵 https://suno.com/s/n0q1J9BWxgtDN0gA",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 48
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "View from the ship",
+      "canonicalUrl": "https://suno.com/song/a3d2dc5d-ff7d-4919-b1ec-e137f01c7e2d",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-36",
+      "title": "Drinking shots",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1b599ff5-8948-4974-b7dc-81e464f00f24",
+      "sourceLinks": [
+        "https://suno.com/s/D7xhgUGBwmRvP1YP"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1b599ff5-8948-4974-b7dc-81e464f00f24.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1b599ff5-8948-4974-b7dc-81e464f00f24?sh=D7xhgUGBwmRvP1YP"
+      },
+      "mentions": [
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "50:15",
+          "timeIsApproximate": false,
+          "evidenceText": "47:07 Ковбойская вечеринка 50:15 🎵 https://suno.com/s/D7xhgUGBwmRvP1YP",
+          "sourceText": "50:15 🎵 https://suno.com/s/D7xhgUGBwmRvP1YP",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 55
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Drinking shots",
+      "canonicalUrl": "https://suno.com/song/1b599ff5-8948-4974-b7dc-81e464f00f24",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-37",
+      "title": "Salt Lake City",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/1104f27f-5ede-4211-993d-5f39d89ddf9a",
+      "sourceLinks": [
+        "https://suno.com/s/wNdIkXWjljKHyIJM"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_1104f27f-5ede-4211-993d-5f39d89ddf9a.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/1104f27f-5ede-4211-993d-5f39d89ddf9a?sh=wNdIkXWjljKHyIJM"
+      },
+      "mentions": [
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "08:29",
+          "timeIsApproximate": false,
+          "evidenceText": "07:38 Маленький город в Пенсильвании 08:29 🎵 https://suno.com/s/wNdIkXWjljKHyIJM 09:21 Вот это трак!",
+          "sourceText": "08:29 🎵 https://suno.com/s/wNdIkXWjljKHyIJM",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 21
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Salt Lake City",
+      "canonicalUrl": "https://suno.com/song/1104f27f-5ede-4211-993d-5f39d89ddf9a",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-38",
+      "title": "Texas lyrics",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/cfb5c751-ca8a-498f-bcfb-cd79df758a4d",
+      "sourceLinks": [
+        "https://suno.com/s/4tZwxez3HlK1BHGr"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_cfb5c751-ca8a-498f-bcfb-cd79df758a4d.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/cfb5c751-ca8a-498f-bcfb-cd79df758a4d?sh=4tZwxez3HlK1BHGr"
+      },
+      "mentions": [
+        {
+          "videoId": "u2YB7TBCCDY",
+          "videoTitle": "Неделя DOT проверок / Проверили дважды / Какой результат",
+          "time": "45:48",
+          "timeIsApproximate": false,
+          "evidenceText": "45:39 Отправляемся в путешествие 45:48 🎵 https://suno.com/s/4tZwxez3HlK1BHGr",
+          "sourceText": "45:48 🎵 https://suno.com/s/4tZwxez3HlK1BHGr",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=u2YB7TBCCDY",
+            "descriptionLine": 44
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Texas lyrics",
+      "canonicalUrl": "https://suno.com/song/cfb5c751-ca8a-498f-bcfb-cd79df758a4d",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-39",
+      "title": "Texas factory",
+      "artist": "annatop1",
+      "listenUrl": "https://suno.com/song/702f3cb0-f11b-43a7-b417-cc5a5d37233c",
+      "sourceLinks": [
+        "https://suno.com/s/K9DhxQnmjnSXlPvI"
+      ],
+      "platform": "Suno",
+      "artwork": {
+        "url": "https://cdn2.suno.ai/image_large_702f3cb0-f11b-43a7-b417-cc5a5d37233c.jpeg",
+        "type": "Suno track page image (og:image)",
+        "sourceUrl": "https://suno.com/song/702f3cb0-f11b-43a7-b417-cc5a5d37233c?sh=K9DhxQnmjnSXlPvI"
+      },
+      "mentions": [
+        {
+          "videoId": "FcMOxsOTTo0",
+          "videoTitle": "Постреляли из снайперской винтовки с Kuvalda / Обзор коллекции оружия",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 https://suno.com/s/K9DhxQnmjnSXlPvI",
+          "sourceText": "🎵 https://suno.com/s/K9DhxQnmjnSXlPvI",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=FcMOxsOTTo0",
+            "descriptionLine": 18
+          }
+        }
+      ],
+      "creatorHandle": "alicefox1",
+      "platformTitle": "Texas factory",
+      "canonicalUrl": "https://suno.com/song/702f3cb0-f11b-43a7-b417-cc5a5d37233c",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-40",
+      "title": "Touch Of Time",
+      "artist": "D.J. Lunin",
+      "listenUrl": "https://www.youtube.com/watch?v=lKWBN4abNrw",
+      "sourceLinks": [
+        "https://youtu.be/lKWBN4abNrw?si=cxWyazm89vWx6z0d"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/lKWBN4abNrw/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=lKWBN4abNrw"
+      },
+      "mentions": [
+        {
+          "videoId": "ONL86L7mHQk",
+          "videoTitle": "Контракты на Амазоне / Встретились с ЖеЛе / Заболели в дороге",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 D.J. Lunin - Touch Of Time https://youtu.be/lKWBN4abNrw?si=cxWyazm89vWx6z0d",
+          "sourceText": "🎵 D.J. Lunin - Touch Of Time https://youtu.be/lKWBN4abNrw?si=cxWyazm89vWx6z0d",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=ONL86L7mHQk",
+            "descriptionLine": 20
+          }
+        }
+      ],
+      "sourceCredit": "D.J. Lunin - Touch Of Time",
+      "platformTitle": "D.J.Lunin - Touch of time (Касание времени - Soblazn Studio)",
+      "platformAuthor": "D J Lunin",
+      "creatorUrl": "https://www.youtube.com/@%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9B%D1%83%D0%BD%D0%B8%D0%BD",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lKWBN4abNrw",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-41",
+      "title": "My Heart",
+      "artist": "D.J. Lunin",
+      "listenUrl": "https://www.youtube.com/watch?v=I-K3aCx-lvQ",
+      "sourceLinks": [
+        "https://youtu.be/I-K3aCx-lvQ?si=aI9X3NXiBI2Wx9t5"
+      ],
+      "platform": "YouTube",
+      "artwork": null,
+      "mentions": [
+        {
+          "videoId": "L3c5uxWQSSo",
+          "videoTitle": "1,5 месяца в рейсе / Годовщина Свадьбы 13 лет / Контракты на Амазоне",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "D.J. Lunin - My Heart: https://youtu.be/I-K3aCx-lvQ?si=aI9X3NXiBI2Wx9t5",
+          "sourceText": "D.J. Lunin - My Heart: https://youtu.be/I-K3aCx-lvQ?si=aI9X3NXiBI2Wx9t5",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=L3c5uxWQSSo",
+            "descriptionLine": 47
+          }
+        }
+      ],
+      "sourceCredit": "D.J. Lunin - My Heart",
+      "platformTitle": null,
+      "platformAuthor": null,
+      "creatorUrl": null,
+      "canonicalUrl": "https://www.youtube.com/watch?v=I-K3aCx-lvQ",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "confirmed-by-description-credit; oEmbed unavailable"
+    },
+    {
+      "id": "music-42",
+      "title": "Далеко от тебя(Far from you-Soblazn Studio)",
+      "artist": "D.J.Lunin",
+      "listenUrl": "https://www.youtube.com/watch?v=_a8fhHbFa2w",
+      "sourceLinks": [
+        "https://youtu.be/_a8fhHbFa2w?si=bP-dAN1NdP__Mw2-"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/_a8fhHbFa2w/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=_a8fhHbFa2w"
+      },
+      "mentions": [
+        {
+          "videoId": "lu9VQlGsCbc",
+          "videoTitle": "СОКРАТИЛИ контракт в два раза❗️Посетили SNOW CANYON в Юте",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "Песня от нашего зрителя D.J. Lunin: https://youtu.be/_a8fhHbFa2w?si=bP-dAN1NdP__Mw2-",
+          "sourceText": "Песня от нашего зрителя D.J. Lunin: https://youtu.be/_a8fhHbFa2w?si=bP-dAN1NdP__Mw2-",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=lu9VQlGsCbc",
+            "descriptionLine": 33
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "D.J.Lunin - Далеко от тебя(Far from you-Soblazn Studio)",
+      "platformAuthor": "D J Lunin",
+      "creatorUrl": "https://www.youtube.com/@%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9B%D1%83%D0%BD%D0%B8%D0%BD",
+      "canonicalUrl": "https://www.youtube.com/watch?v=_a8fhHbFa2w",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-43",
+      "title": "My Sacrifice",
+      "artist": "Creed",
+      "listenUrl": "https://www.youtube.com/watch?v=O-fyNgHdmLI",
+      "sourceLinks": [
+        "https://youtu.be/O-fyNgHdmLI?si=HhDSqA_ZkOqhygWp"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/O-fyNgHdmLI/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=O-fyNgHdmLI"
+      },
+      "mentions": [
+        {
+          "videoId": "T0w_3cwj32g",
+          "videoTitle": "Распаковка посылок/ Первый заезд на эндуро/ Наш сад",
+          "time": "19:18",
+          "timeIsApproximate": true,
+          "evidenceText": "19:18 Сергей примеряет свою экипировку 🎵 https://youtu.be/O-fyNgHdmLI?si=HhDSqA_ZkOqhygWp 20:03 Взяли в аренду минивэн для перевозки мотоциклов",
+          "sourceText": "🎵 https://youtu.be/O-fyNgHdmLI?si=HhDSqA_ZkOqhygWp",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=T0w_3cwj32g",
+            "descriptionLine": 15
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Creed - My Sacrifice (Official HD Music Video)",
+      "platformAuthor": "CreedVEVO",
+      "creatorUrl": "https://www.youtube.com/@CreedVEVO",
+      "canonicalUrl": "https://www.youtube.com/watch?v=O-fyNgHdmLI",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-44",
+      "title": "The Resistance",
+      "artist": "Skillet",
+      "listenUrl": "https://www.youtube.com/watch?v=jP_uUkBfCM4",
+      "sourceLinks": [
+        "https://youtu.be/jP_uUkBfCM4?si=0KSpqr4e2ZN9fvmR"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/jP_uUkBfCM4/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=jP_uUkBfCM4"
+      },
+      "mentions": [
+        {
+          "videoId": "T0w_3cwj32g",
+          "videoTitle": "Распаковка посылок/ Первый заезд на эндуро/ Наш сад",
+          "time": "29:50",
+          "timeIsApproximate": true,
+          "evidenceText": "29:50 У нас есть экипировка 🎵 https://youtu.be/jP_uUkBfCM4?si=0KSpqr4e2ZN9fvmR 31:29 Я застряла в песке",
+          "sourceText": "🎵 https://youtu.be/jP_uUkBfCM4?si=0KSpqr4e2ZN9fvmR",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=T0w_3cwj32g",
+            "descriptionLine": 24
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Skillet - The Resistance (Lyrics HD)",
+      "platformAuthor": "Skillet Lyrics",
+      "creatorUrl": "https://www.youtube.com/@skilletlyrics5165",
+      "canonicalUrl": "https://www.youtube.com/watch?v=jP_uUkBfCM4",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-45",
+      "title": "Orphic Night (feat. Diandra Faye)",
+      "artist": "NIVIRO",
+      "listenUrl": "https://www.youtube.com/watch?v=SPQBphviOxI",
+      "sourceLinks": [
+        "https://youtu.be/SPQBphviOxI?si=fb_Aj5rrwb1Kidiy"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/SPQBphviOxI/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=SPQBphviOxI"
+      },
+      "mentions": [
+        {
+          "videoId": "T0w_3cwj32g",
+          "videoTitle": "Распаковка посылок/ Первый заезд на эндуро/ Наш сад",
+          "time": "33:44",
+          "timeIsApproximate": false,
+          "evidenceText": "33:10 Походный обед 33:44 🎵 https://youtu.be/SPQBphviOxI?si=fb_Aj5rrwb1Kidiy 35:46 Сергей с Володей нашли кладбище в лесу",
+          "sourceText": "33:44 🎵 https://youtu.be/SPQBphviOxI?si=fb_Aj5rrwb1Kidiy",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=T0w_3cwj32g",
+            "descriptionLine": 27
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "NIVIRO - Orphic Night (feat. Diandra Faye) | DnB | NCS - Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=SPQBphviOxI",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-46",
+      "title": "Keep You",
+      "artist": "Rameses B",
+      "listenUrl": "https://www.youtube.com/watch?v=lXGvNdV02aQ",
+      "sourceLinks": [
+        "https://youtu.be/lXGvNdV02aQ?si=aWJtojoL9C1PL1Lb"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/lXGvNdV02aQ/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=lXGvNdV02aQ"
+      },
+      "mentions": [
+        {
+          "videoId": "g43sLSEuMVE",
+          "videoTitle": "Неделя не задалась/ Грузов нет/ Встретились с LoraUSA",
+          "time": "01:26",
+          "timeIsApproximate": false,
+          "evidenceText": "00:01 Смазываю седло перед рейсом 01:26 🎵 https://youtu.be/lXGvNdV02aQ?si=aWJtojoL9C1PL1Lb 01:45 Лётная школа",
+          "sourceText": "01:26 🎵 https://youtu.be/lXGvNdV02aQ?si=aWJtojoL9C1PL1Lb",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=g43sLSEuMVE",
+            "descriptionLine": 5
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Rameses B - Keep You | Phonk | NCS - Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lXGvNdV02aQ",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-47",
+      "title": "Calling Out Your Name",
+      "artist": "MANIA, Tom Wigley & Lottie Jones",
+      "listenUrl": "https://www.youtube.com/watch?v=yX-mmvu9J7U",
+      "sourceLinks": [
+        "https://youtu.be/yX-mmvu9J7U?si=F9XaEKlcO3KG1W5g"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/yX-mmvu9J7U/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=yX-mmvu9J7U"
+      },
+      "mentions": [
+        {
+          "videoId": "g43sLSEuMVE",
+          "videoTitle": "Неделя не задалась/ Грузов нет/ Встретились с LoraUSA",
+          "time": "03:28",
+          "timeIsApproximate": false,
+          "evidenceText": "01:45 Лётная школа 03:28 🎵 https://youtu.be/yX-mmvu9J7U?si=F9XaEKlcO3KG1W5g 03:49 Ларек с пирожками https://maps.app.goo.gl/xntTwmJ4L75bjgfC9?g_st=ic",
+          "sourceText": "03:28 🎵 https://youtu.be/yX-mmvu9J7U?si=F9XaEKlcO3KG1W5g",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=g43sLSEuMVE",
+            "descriptionLine": 7
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "MANIA, Tom Wigley & Lottie Jones - Calling Out Your Name | DnB | NCS - Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=yX-mmvu9J7U",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-48",
+      "title": "Never Let You Down",
+      "artist": "Itro",
+      "listenUrl": "https://www.youtube.com/watch?v=vFQ1EcdTdrI",
+      "sourceLinks": [
+        "https://youtu.be/vFQ1EcdTdrI?si=z8OiROrPumpdHKYO"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/vFQ1EcdTdrI/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=vFQ1EcdTdrI"
+      },
+      "mentions": [
+        {
+          "videoId": "g43sLSEuMVE",
+          "videoTitle": "Неделя не задалась/ Грузов нет/ Встретились с LoraUSA",
+          "time": "08:24",
+          "timeIsApproximate": false,
+          "evidenceText": "07:41 Едем в Денвер, Колорадо 08:24 🎵 https://youtu.be/vFQ1EcdTdrI?si=z8OiROrPumpdHKYO 09:14 Авария на трассе",
+          "sourceText": "08:24 🎵 https://youtu.be/vFQ1EcdTdrI?si=z8OiROrPumpdHKYO",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=g43sLSEuMVE",
+            "descriptionLine": 12
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Itro - Never Let You Down | DnB | NCS - Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=vFQ1EcdTdrI",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-49",
+      "title": "Evolution (ft. Harley Bird)",
+      "artist": "Clarx, Debris, 3rd Prototype, Castion, EMDI",
+      "listenUrl": "https://www.youtube.com/watch?v=36fq-2a7EkY",
+      "sourceLinks": [
+        "https://youtu.be/36fq-2a7EkY"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/36fq-2a7EkY/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=36fq-2a7EkY"
+      },
+      "mentions": [
+        {
+          "videoId": "l0DiS2Fwm60",
+          "videoTitle": "Гавайи. Большой остров. Место, куда хочется вернуться! Hawaii. Big island.",
+          "time": null,
+          "timeIsApproximate": null,
+          "evidenceText": "🎵 https://youtu.be/36fq-2a7EkY",
+          "sourceText": "🎵 https://youtu.be/36fq-2a7EkY",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=l0DiS2Fwm60",
+            "descriptionLine": 8
+          }
+        }
+      ],
+      "sourceCredit": null,
+      "platformTitle": "Clarx, Debris, 3rd Prototype, Castion, EMDI - Evolution (ft. Harley Bird) | Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=36fq-2a7EkY",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-50",
+      "title": "Hate You",
+      "artist": "Poylow & Bauwz",
+      "listenUrl": "https://www.youtube.com/watch?v=tb0DXZaS1iU",
+      "sourceLinks": [
+        "https://youtu.be/tb0DXZaS1iU"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/tb0DXZaS1iU/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=tb0DXZaS1iU"
+      },
+      "mentions": [
+        {
+          "videoId": "l0DiS2Fwm60",
+          "videoTitle": "Гавайи. Большой остров. Место, куда хочется вернуться! Hawaii. Big island.",
+          "time": "21:34",
+          "timeIsApproximate": true,
+          "evidenceText": "21:34 🎵 Poylow & Bauwz - Hate You https://youtu.be/tb0DXZaS1iU",
+          "sourceText": "https://youtu.be/tb0DXZaS1iU",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=l0DiS2Fwm60",
+            "descriptionLine": 26
+          }
+        }
+      ],
+      "sourceCredit": "Poylow & Bauwz - Hate You",
+      "platformTitle": "Poylow & BAUWZ - Hate You (feat. Nito-Onna) | Trap | NCS - Copyright Free Music",
+      "platformAuthor": "NoCopyrightSounds",
+      "creatorUrl": "https://www.youtube.com/@NoCopyrightSounds",
+      "canonicalUrl": "https://www.youtube.com/watch?v=tb0DXZaS1iU",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-51",
+      "title": "Down",
+      "artist": "Love and Death",
+      "listenUrl": "https://www.youtube.com/watch?v=Mb1wZvggOxo",
+      "sourceLinks": [
+        "https://youtu.be/Mb1wZvggOxo"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/Mb1wZvggOxo/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=Mb1wZvggOxo"
+      },
+      "mentions": [
+        {
+          "videoId": "l0DiS2Fwm60",
+          "videoTitle": "Гавайи. Большой остров. Место, куда хочется вернуться! Hawaii. Big island.",
+          "time": "42:20",
+          "timeIsApproximate": true,
+          "evidenceText": "42:20 🎵 Love and Death - Down (cover by Steffi Stuber) https://youtu.be/Mb1wZvggOxo",
+          "sourceText": "https://youtu.be/Mb1wZvggOxo",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=l0DiS2Fwm60",
+            "descriptionLine": 38
+          }
+        }
+      ],
+      "sourceCredit": "Love and Death - Down (cover by Steffi Stuber)",
+      "platformTitle": "LOVE AND DEATH - Down (Cover by Steffi Stuber)",
+      "platformAuthor": "Steffi Stuber",
+      "creatorUrl": "https://www.youtube.com/@SteffiStuber",
+      "canonicalUrl": "https://www.youtube.com/watch?v=Mb1wZvggOxo",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-52",
+      "title": "Blind death",
+      "artist": "Free flow flava",
+      "listenUrl": "https://www.youtube.com/watch?v=q8nAlfI2J_I",
+      "sourceLinks": [
+        "https://youtu.be/q8nAlfI2J_I"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/q8nAlfI2J_I/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=q8nAlfI2J_I"
+      },
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "00:35",
+          "timeIsApproximate": true,
+          "evidenceText": "00:35 🎵 Free flow flava - Blind death https://youtu.be/q8nAlfI2J_I 00:56 Меняем масло в траке",
+          "sourceText": "https://youtu.be/q8nAlfI2J_I",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 10
+          }
+        }
+      ],
+      "sourceCredit": "Free flow flava - Blind death",
+      "platformTitle": "Trap japan  2021 🔥 Gaming Music 🔥 Streaming Music 🔥trapjapan",
+      "platformAuthor": "LWB Music",
+      "creatorUrl": "https://www.youtube.com/@LWBMusic",
+      "canonicalUrl": "https://www.youtube.com/watch?v=q8nAlfI2J_I",
+      "musicTargetStatus": "confirmed-music-compilation; exact-track-match-unverified",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-53",
+      "title": "Elix",
+      "artist": "Synthness",
+      "listenUrl": "https://www.youtube.com/watch?v=K2lCFWBhZd4",
+      "sourceLinks": [
+        "https://youtu.be/K2lCFWBhZd4"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/K2lCFWBhZd4/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=K2lCFWBhZd4"
+      },
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "02:51",
+          "timeIsApproximate": true,
+          "evidenceText": "02:51 🎵 Synthness - Elix https://youtu.be/K2lCFWBhZd4 03:05 Почему мы не возим оружие",
+          "sourceText": "https://youtu.be/K2lCFWBhZd4",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 14
+          }
+        }
+      ],
+      "sourceCredit": "Synthness - Elix",
+      "platformTitle": "Synthness - Elix (Official Audio)",
+      "platformAuthor": "Synthness",
+      "creatorUrl": "https://www.youtube.com/@Synthness0fficial",
+      "canonicalUrl": "https://www.youtube.com/watch?v=K2lCFWBhZd4",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    },
+    {
+      "id": "music-54",
+      "title": "Before the start",
+      "artist": "Anton Vlasov",
+      "listenUrl": "https://www.youtube.com/watch?v=ItAomoGsc0w",
+      "sourceLinks": [
+        "https://youtu.be/ItAomoGsc0w"
+      ],
+      "platform": "YouTube",
+      "artwork": {
+        "url": "https://i.ytimg.com/vi/ItAomoGsc0w/hqdefault.jpg",
+        "type": "YouTube video thumbnail preview; not an album cover",
+        "sourceUrl": "https://www.youtube.com/watch?v=ItAomoGsc0w"
+      },
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "06:17",
+          "timeIsApproximate": true,
+          "evidenceText": "06:17 🎵 Anton Vlasov - Before the start https://youtu.be/ItAomoGsc0w 06:30 Авария на дороге",
+          "sourceText": "https://youtu.be/ItAomoGsc0w",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 19
+          }
+        }
+      ],
+      "sourceCredit": "Anton Vlasov - Before the start",
+      "platformTitle": "Anton Vlasov - Before the Start (No Copyright)",
+      "platformAuthor": "Cool No Copyright Music",
+      "creatorUrl": "https://www.youtube.com/@coolnocopyrightmusic6007",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ItAomoGsc0w",
+      "musicTargetStatus": "confirmed-by-track-credit-or-oembed-title",
+      "metadataStatus": "resolved"
+    }
+  ],
+  "namedUnlinkedTracks": [
+    {
+      "id": "named-1",
+      "artist": "Coopex",
+      "title": "Redemption",
+      "creditText": "Coopex - Redemption",
+      "searchUrl": "https://www.youtube.com/results?search_query=Coopex%20Redemption",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "21:02",
+          "timeIsApproximate": false,
+          "sourceText": "21:02 🎵 Coopex - Redemption",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-2",
+      "artist": "Audio Hertz",
+      "title": "Mission to Mars",
+      "creditText": "Audio Hertz - Mission to Mars",
+      "searchUrl": "https://www.youtube.com/results?search_query=Audio%20Hertz%20Mission%20to%20Mars",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "27:43",
+          "timeIsApproximate": false,
+          "sourceText": "27:43 🎵 Audio Hertz - Mission to Mars",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-3",
+      "artist": "Jim Yosef",
+      "title": "Volcano",
+      "creditText": "Jim Yosef - Volcano",
+      "searchUrl": "https://www.youtube.com/results?search_query=Jim%20Yosef%20Volcano",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "46:41",
+          "timeIsApproximate": false,
+          "sourceText": "46:41 🎵 Jim Yosef - Volcano",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-4",
+      "artist": "William Rosati",
+      "title": "Parzival",
+      "creditText": "William Rosati - Parzival",
+      "searchUrl": "https://www.youtube.com/results?search_query=William%20Rosati%20Parzival",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "6trn03SeFdY",
+          "videoTitle": "2 недели контрактов на Амазоне / Потеряли брызговики / Рабочие будни дальнобойщиков в США",
+          "time": "55:59",
+          "timeIsApproximate": false,
+          "sourceText": "55:59 🎵 William Rosati - Parzival",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=6trn03SeFdY",
+            "descriptionLine": 53
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-5",
+      "artist": "Nico Staf",
+      "title": "Snake on the beach",
+      "creditText": "Nico Staf - Snake on the beach",
+      "searchUrl": "https://www.youtube.com/results?search_query=Nico%20Staf%20Snake%20on%20the%20beach",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "eqLzRsk7_FQ",
+          "videoTitle": "ч.1 - КРУИЗ на АЛЯСКУ 2026 на лайнере STAR PRINCESS 🛳️ Обзор каюты / Цены",
+          "time": "33:33",
+          "timeIsApproximate": false,
+          "sourceText": "33:33 🎵 Nico Staf - Snake on the beach",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=eqLzRsk7_FQ",
+            "descriptionLine": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-6",
+      "artist": "Truce",
+      "title": "Ghost",
+      "creditText": "Truce - Ghost",
+      "searchUrl": "https://www.youtube.com/results?search_query=Truce%20Ghost",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "l0DiS2Fwm60",
+          "videoTitle": "Гавайи. Большой остров. Место, куда хочется вернуться! Hawaii. Big island.",
+          "time": "10:01",
+          "timeIsApproximate": false,
+          "sourceText": "10:01 🎵 Truce - Ghost",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=l0DiS2Fwm60",
+            "descriptionLine": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-7",
+      "artist": "Eternal",
+      "title": "Diverse Music",
+      "creditText": "Eternal - Diverse Music",
+      "searchUrl": "https://www.youtube.com/results?search_query=Eternal%20Diverse%20Music",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "07:47",
+          "timeIsApproximate": false,
+          "sourceText": "07:47 🎵 Eternal - Diverse Music",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-8",
+      "artist": "Arthur Basov",
+      "title": "Metamorphosis Creatures",
+      "creditText": "Arthur Basov - Metamorphosis Creatures",
+      "searchUrl": "https://www.youtube.com/results?search_query=Arthur%20Basov%20Metamorphosis%20Creatures",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "23:16",
+          "timeIsApproximate": false,
+          "sourceText": "23:16 🎵 Arthur Basov - Metamorphosis Creatures",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-9",
+      "artist": "Arthur Basov",
+      "title": "Tales from the south",
+      "creditText": "Arthur Basov - Tales from the south",
+      "searchUrl": "https://www.youtube.com/results?search_query=Arthur%20Basov%20Tales%20from%20the%20south",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "t1iYvB5q2bU",
+          "videoTitle": "С оружием нельзя! UPS посылки",
+          "time": "35:04",
+          "timeIsApproximate": false,
+          "sourceText": "35:04 🎵 Arthur Basov - Tales from the south",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=t1iYvB5q2bU",
+            "descriptionLine": 32
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-10",
+      "artist": "Bensound",
+      "title": "A new beginning",
+      "creditText": "Bensound - A new beginning",
+      "searchUrl": "https://www.youtube.com/results?search_query=Bensound%20A%20new%20beginning",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "00:38",
+          "timeIsApproximate": false,
+          "sourceText": "00:38 🎵 Bensound - A new beginning",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-11",
+      "artist": "Fin Productions",
+      "title": "Blocked Out",
+      "creditText": "Fin Productions - Blocked Out",
+      "searchUrl": "https://www.youtube.com/results?search_query=Fin%20Productions%20Blocked%20Out",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "04:56",
+          "timeIsApproximate": false,
+          "sourceText": "04:56 🎵 Fin Productions - Blocked Out",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-12",
+      "artist": "Synthness",
+      "title": "Elix",
+      "creditText": "Synthness - Elix",
+      "searchUrl": "https://www.youtube.com/results?search_query=Synthness%20Elix",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "12:15",
+          "timeIsApproximate": false,
+          "sourceText": "12:15 🎵 Synthness - Elix",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 20
+          }
+        },
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "15:14",
+          "timeIsApproximate": false,
+          "sourceText": "15:14 🎵 Synthness - Elix",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 22
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-13",
+      "artist": "Silent Partner",
+      "title": "Marvin’s Dance",
+      "creditText": "Silent Partner - Marvin’s Dance",
+      "searchUrl": "https://www.youtube.com/results?search_query=Silent%20Partner%20Marvin%E2%80%99s%20Dance",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "24:01",
+          "timeIsApproximate": false,
+          "sourceText": "24:01 🎵 Silent Partner - Marvin’s Dance",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "named-14",
+      "artist": "Machinimasound",
+      "title": "Queen of the night",
+      "creditText": "Machinimasound - Queen of the night",
+      "searchUrl": "https://www.youtube.com/results?search_query=Machinimasound%20Queen%20of%20the%20night",
+      "artwork": null,
+      "listeningLinkStatus": "search-only; no direct destination in the source description",
+      "mentions": [
+        {
+          "videoId": "AprxbCyDJVc",
+          "videoTitle": "Русские магазины в США. Сожгли машину на наших глазах.",
+          "time": "29:16",
+          "timeIsApproximate": false,
+          "sourceText": "29:16 🎵 Machinimasound - Queen of the night",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=AprxbCyDJVc",
+            "descriptionLine": 26
+          }
+        }
+      ]
+    }
+  ],
+  "unresolvedMentions": [
+    {
+      "videoId": "c67MP7GkZTQ",
+      "videoTitle": "Дальнобой по США / Встретили подписчиков",
+      "time": "08:17",
+      "timeIsApproximate": false,
+      "mention": "08:17 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "c67MP7GkZTQ",
+      "videoTitle": "Дальнобой по США / Встретили подписчиков",
+      "time": "11:18",
+      "timeIsApproximate": false,
+      "mention": "11:18 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "c67MP7GkZTQ",
+      "videoTitle": "Дальнобой по США / Встретили подписчиков",
+      "time": "19:04",
+      "timeIsApproximate": false,
+      "mention": "19:04 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=c67MP7GkZTQ",
+        "descriptionLine": 27
+      }
+    },
+    {
+      "videoId": "3YePZZ47k2w",
+      "videoTitle": "Что приготовили в рейс / Поменяли телефоны / Контракты на Амазоне",
+      "time": "28:39",
+      "timeIsApproximate": false,
+      "mention": "28:39 🎵 Красивые виды под красивую музыку D.J. Lunin @Виталий_Лунин",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3YePZZ47k2w",
+        "descriptionLine": 33
+      }
+    },
+    {
+      "videoId": "shbEN82bCyY",
+      "videoTitle": "Три неприятности за один день / Наши рабочие приключения",
+      "time": "15:43",
+      "timeIsApproximate": false,
+      "mention": "15:43 Нэшвилл - музыкальный город",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=shbEN82bCyY",
+        "descriptionLine": 29
+      }
+    },
+    {
+      "videoId": "shbEN82bCyY",
+      "videoTitle": "Три неприятности за один день / Наши рабочие приключения",
+      "time": "57:40",
+      "timeIsApproximate": false,
+      "mention": "57:40 Пришли в бар с живой музыкой",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=shbEN82bCyY",
+        "descriptionLine": 49
+      }
+    },
+    {
+      "videoId": "K9JWxF4kqeA",
+      "videoTitle": "Поменяли коробку передач по гарантии / Удачно заехали в сервис",
+      "time": "48:41",
+      "timeIsApproximate": false,
+      "mention": "48:41 Как создавалась песня «Большие города не спят»",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=K9JWxF4kqeA",
+        "descriptionLine": 41
+      }
+    },
+    {
+      "videoId": "OqQ9YuVThH0",
+      "videoTitle": "Мелкие рабочие трудности / Красивая природа США",
+      "time": "24:19",
+      "timeIsApproximate": false,
+      "mention": "24:19 Нереальная песня под виды города",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=OqQ9YuVThH0",
+        "descriptionLine": 28
+      }
+    },
+    {
+      "videoId": "OqQ9YuVThH0",
+      "videoTitle": "Мелкие рабочие трудности / Красивая природа США",
+      "time": "47:19",
+      "timeIsApproximate": false,
+      "mention": "47:19 Техас под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=OqQ9YuVThH0",
+        "descriptionLine": 40
+      }
+    },
+    {
+      "videoId": "ONL86L7mHQk",
+      "videoTitle": "Контракты на Амазоне / Встретились с ЖеЛе / Заболели в дороге",
+      "time": "11:14",
+      "timeIsApproximate": false,
+      "mention": "11:14 Песня от нашего зрителя @В@Виталий_Лунин12:21 Наша любимая рест эрия в Аризоне",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ONL86L7mHQk",
+        "descriptionLine": 31
+      }
+    },
+    {
+      "videoId": "ONL86L7mHQk",
+      "videoTitle": "Контракты на Амазоне / Встретились с ЖеЛе / Заболели в дороге",
+      "time": "16:17",
+      "timeIsApproximate": false,
+      "mention": "16:17 Песня от нашего зрителя @Вит@Виталий_Лунин:08 Авария на дороге",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ONL86L7mHQk",
+        "descriptionLine": 32
+      }
+    },
+    {
+      "videoId": "rw4lBcWgmxY",
+      "videoTitle": "Наши планы на 3 дня / Долгожданные гости / Покатушки на мотоциклах",
+      "time": "19:39",
+      "timeIsApproximate": false,
+      "mention": "19:39 Режем оливье и поем песни",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rw4lBcWgmxY",
+        "descriptionLine": 37
+      }
+    },
+    {
+      "videoId": "rw4lBcWgmxY",
+      "videoTitle": "Наши планы на 3 дня / Долгожданные гости / Покатушки на мотоциклах",
+      "time": "35:54",
+      "timeIsApproximate": false,
+      "mention": "35:54 Песни у костра под гитару",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rw4lBcWgmxY",
+        "descriptionLine": 44
+      }
+    },
+    {
+      "videoId": "CSF5_k7MpqA",
+      "videoTitle": "Сколько стоит 1 день на горных лыжах в Солт Лейк Сити / Контракты на Амазоне",
+      "time": "03:55",
+      "timeIsApproximate": false,
+      "mention": "03:55 Лас Вегас под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=CSF5_k7MpqA",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "CSF5_k7MpqA",
+      "videoTitle": "Сколько стоит 1 день на горных лыжах в Солт Лейк Сити / Контракты на Амазоне",
+      "time": "20:14",
+      "timeIsApproximate": false,
+      "mention": "20:14 Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=CSF5_k7MpqA",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "CSF5_k7MpqA",
+      "videoTitle": "Сколько стоит 1 день на горных лыжах в Солт Лейк Сити / Контракты на Амазоне",
+      "time": "51:50",
+      "timeIsApproximate": false,
+      "mention": "51:50 Накатались и сидим довольные. Виды с квадрокоптера под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=CSF5_k7MpqA",
+        "descriptionLine": 28
+      }
+    },
+    {
+      "videoId": "lu9VQlGsCbc",
+      "videoTitle": "СОКРАТИЛИ контракт в два раза❗️Посетили SNOW CANYON в Юте",
+      "time": "03:57",
+      "timeIsApproximate": false,
+      "mention": "03:57 Песня от нашего зрителя @Виталий_Лунин",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=lu9VQlGsCbc",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "01WuZLIX3Fg",
+      "videoTitle": "Вот это да! Попали на родео в Вегасе. Последний рейс в 2025",
+      "time": "32:06",
+      "timeIsApproximate": false,
+      "mention": "32:06 Поехали работать. Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=01WuZLIX3Fg",
+        "descriptionLine": 22
+      }
+    },
+    {
+      "videoId": "sj01wIT7agE",
+      "videoTitle": "Замена всех колес на траке. Рабочие будни дальнобойщиков в США",
+      "time": "10:13",
+      "timeIsApproximate": false,
+      "mention": "10:13 Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=sj01wIT7agE",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "VVGSmSg0xwU",
+      "videoTitle": "Плохая инспекция на весовой. Что пошло не так? / Домашние хлопоты",
+      "time": "07:13",
+      "timeIsApproximate": false,
+      "mention": "07:13 Красивые виды под музыку от нашего зрителя @Виталий_Лунин",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=VVGSmSg0xwU",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "82MyZkUWgI8",
+      "videoTitle": "Рабочие будни дальнобойщиков в США",
+      "time": "04:14",
+      "timeIsApproximate": false,
+      "mention": "04:14 Сергей отжимается под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=82MyZkUWgI8",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "Fi7K3UHcqDk",
+      "videoTitle": "В чем подвох, когда всё хорошо? / Новая поломка / Контракт на Амазоне",
+      "time": "16:25",
+      "timeIsApproximate": false,
+      "mention": "16:25 Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=Fi7K3UHcqDk",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "Fi7K3UHcqDk",
+      "videoTitle": "В чем подвох, когда всё хорошо? / Новая поломка / Контракт на Амазоне",
+      "time": "20:31",
+      "timeIsApproximate": false,
+      "mention": "20:31 Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=Fi7K3UHcqDk",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "iICSermp-fs",
+      "videoTitle": "Выходные в Лас Вегасе / Посетили Сферу",
+      "time": "13:45",
+      "timeIsApproximate": false,
+      "mention": "13:45 Уличный музыкант играет на кастрюлях",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=iICSermp-fs",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "iICSermp-fs",
+      "videoTitle": "Выходные в Лас Вегасе / Посетили Сферу",
+      "time": "31:38",
+      "timeIsApproximate": false,
+      "mention": "31:38 Зашли в бар поесть и послушать живую музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=iICSermp-fs",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "hkrJH4B4Mio",
+      "videoTitle": "Домашние дела / Посылки/ Посадили кокосы / Приехали гости",
+      "time": "30:56",
+      "timeIsApproximate": false,
+      "mention": "30:56 Приехали наши дорогие гости @gre4ka_USA  Новоселье. Песни и пляски",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=hkrJH4B4Mio",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "hkrJH4B4Mio",
+      "videoTitle": "Домашние дела / Посылки/ Посадили кокосы / Приехали гости",
+      "time": "36:36",
+      "timeIsApproximate": false,
+      "mention": "36:36 Пришли в бассейн. Живая музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=hkrJH4B4Mio",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "ZE9GQJhsNxs",
+      "videoTitle": "Работа кипит/ Дарим монетки на ходу",
+      "time": "08:53",
+      "timeIsApproximate": false,
+      "mention": "08:53 Красивые виды под музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ZE9GQJhsNxs",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "jTijsd3syH0",
+      "videoTitle": "Круиз по Карибам 2025 на лайнере MSC SEASHORE 🛳️",
+      "time": "22:01",
+      "timeIsApproximate": false,
+      "mention": "22:01 Возвращаемся на лайнер на рыбацкой лодке под русские песни",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=jTijsd3syH0",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "jTijsd3syH0",
+      "videoTitle": "Круиз по Карибам 2025 на лайнере MSC SEASHORE 🛳️",
+      "time": "25:43",
+      "timeIsApproximate": false,
+      "mention": "25:43 Отправление лайнера Дисней с музыкой",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=jTijsd3syH0",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "jTijsd3syH0",
+      "videoTitle": "Круиз по Карибам 2025 на лайнере MSC SEASHORE 🛳️",
+      "time": "1:09:38",
+      "timeIsApproximate": false,
+      "mention": "1:09:38 Живая музыка, шоу-программа",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=jTijsd3syH0",
+        "descriptionLine": 32
+      }
+    },
+    {
+      "videoId": "X2RShDL3n1g",
+      "videoTitle": "Снова взяли контракты на Амазоне/ Что нового дома 🏡",
+      "time": "00:01",
+      "timeIsApproximate": false,
+      "mention": "00:01 Песня от нашего зрителя",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=X2RShDL3n1g",
+        "descriptionLine": 4
+      }
+    },
+    {
+      "videoId": "DAXezO1__JU",
+      "videoTitle": "Благоустройство дома/ Покатались на мотоциклах/ Встреча с друзьями",
+      "time": "52:28",
+      "timeIsApproximate": false,
+      "mention": "52:28 Продолжение банкета дома с танцами и песнями",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=DAXezO1__JU",
+        "descriptionLine": 24
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "01:20",
+      "timeIsApproximate": false,
+      "mention": "01:20 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "04:26",
+      "timeIsApproximate": false,
+      "mention": "04:26 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "12:45",
+      "timeIsApproximate": false,
+      "mention": "12:45 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "14:13",
+      "timeIsApproximate": false,
+      "mention": "14:13 🎵 Потанцуем?",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "31:54",
+      "timeIsApproximate": false,
+      "mention": "31:54 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "26:11",
+      "timeIsApproximate": false,
+      "mention": "26:11 🎵 Песня от нашего зрителя",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "28:12",
+      "timeIsApproximate": false,
+      "mention": "28:12 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 27
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "32:13",
+      "timeIsApproximate": false,
+      "mention": "32:13 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "37:09",
+      "timeIsApproximate": false,
+      "mention": "37:09 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 35
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "53:59",
+      "timeIsApproximate": false,
+      "mention": "53:59 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 39
+      }
+    },
+    {
+      "videoId": "mFQaSNjK3G0",
+      "videoTitle": "Много работы на Амазоне / Жизнь налаживается или будет спад?",
+      "time": "55:49",
+      "timeIsApproximate": false,
+      "mention": "55:49 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mFQaSNjK3G0",
+        "descriptionLine": 41
+      }
+    },
+    {
+      "videoId": "mTkFmeKlc54",
+      "videoTitle": "Скучали по работе / Дальнобой по США",
+      "time": "27:37",
+      "timeIsApproximate": false,
+      "mention": "27:37 Рассвет под красивую музыку",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=mTkFmeKlc54",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "YSsWP-i6xXc",
+      "videoTitle": "Едем в гости/ Рум-тур по дому/ Благоустройство дома",
+      "time": "11:44",
+      "timeIsApproximate": false,
+      "mention": "11:44 Поем старые добрые песни",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=YSsWP-i6xXc",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "vsggZKzVPIA",
+      "videoTitle": "Всю неделю контракта ездим без прицепа! Не уверены, что заплатят",
+      "time": "05:23",
+      "timeIsApproximate": false,
+      "mention": "05:23 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=vsggZKzVPIA",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "vsggZKzVPIA",
+      "videoTitle": "Всю неделю контракта ездим без прицепа! Не уверены, что заплатят",
+      "time": "18:46",
+      "timeIsApproximate": false,
+      "mention": "18:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=vsggZKzVPIA",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "SeQXS2ik0n0",
+      "videoTitle": "Загнали на проверку 1 уровня/ Едем домой 🌴",
+      "time": "00:29",
+      "timeIsApproximate": false,
+      "mention": "00:29 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SeQXS2ik0n0",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "SeQXS2ik0n0",
+      "videoTitle": "Загнали на проверку 1 уровня/ Едем домой 🌴",
+      "time": "02:27",
+      "timeIsApproximate": false,
+      "mention": "02:27 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SeQXS2ik0n0",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "SeQXS2ik0n0",
+      "videoTitle": "Загнали на проверку 1 уровня/ Едем домой 🌴",
+      "time": "04:32",
+      "timeIsApproximate": false,
+      "mention": "04:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SeQXS2ik0n0",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "SeQXS2ik0n0",
+      "videoTitle": "Загнали на проверку 1 уровня/ Едем домой 🌴",
+      "time": "12:31",
+      "timeIsApproximate": false,
+      "mention": "12:31 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SeQXS2ik0n0",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "00:59",
+      "timeIsApproximate": false,
+      "mention": "00:59 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "03:01",
+      "timeIsApproximate": false,
+      "mention": "03:01 Прыгаем на скакалке под 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "04:24",
+      "timeIsApproximate": false,
+      "mention": "04:24 Солт Лейк Сити, штат Юта 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "05:35",
+      "timeIsApproximate": false,
+      "mention": "05:35 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "12:41",
+      "timeIsApproximate": false,
+      "mention": "12:41 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "21:39",
+      "timeIsApproximate": false,
+      "mention": "21:39 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "23:32",
+      "timeIsApproximate": false,
+      "mention": "23:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 22
+      }
+    },
+    {
+      "videoId": "40YdsVtIRpw",
+      "videoTitle": "Работа на Амазоне/ Русский магазин/ Падение мотоциклиста",
+      "time": "26:23",
+      "timeIsApproximate": false,
+      "mention": "26:23 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=40YdsVtIRpw",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "01:25",
+      "timeIsApproximate": false,
+      "mention": "01:25 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "02:12",
+      "timeIsApproximate": false,
+      "mention": "02:12 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "05:19",
+      "timeIsApproximate": false,
+      "mention": "05:19 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "10:01",
+      "timeIsApproximate": false,
+      "mention": "10:01 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "12:18",
+      "timeIsApproximate": false,
+      "mention": "12:18 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "14:11",
+      "timeIsApproximate": false,
+      "mention": "14:11 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "30:09",
+      "timeIsApproximate": false,
+      "mention": "30:09 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 26
+      }
+    },
+    {
+      "videoId": "bdJaV6bX_zA",
+      "videoTitle": "Наша опасная работа/ Авария на дороге/ Замена бачка омывателя",
+      "time": "36:40",
+      "timeIsApproximate": false,
+      "mention": "36:40 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=bdJaV6bX_zA",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "01:15",
+      "timeIsApproximate": false,
+      "mention": "01:15 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "02:57",
+      "timeIsApproximate": false,
+      "mention": "02:57 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "03:45",
+      "timeIsApproximate": false,
+      "mention": "03:45 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "07:08",
+      "timeIsApproximate": false,
+      "mention": "07:08 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "11:36",
+      "timeIsApproximate": false,
+      "mention": "11:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "24:46",
+      "timeIsApproximate": false,
+      "mention": "24:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "26:11",
+      "timeIsApproximate": false,
+      "mention": "26:11 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "27:26",
+      "timeIsApproximate": false,
+      "mention": "27:26 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 27
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "28:59",
+      "timeIsApproximate": false,
+      "mention": "28:59 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 29
+      }
+    },
+    {
+      "videoId": "ECUl9rAw_PU",
+      "videoTitle": "Рабочие будни дальнобойщиков/ Посетили Гранд Каньон",
+      "time": "31:42",
+      "timeIsApproximate": false,
+      "mention": "31:42 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=ECUl9rAw_PU",
+        "descriptionLine": 32
+      }
+    },
+    {
+      "videoId": "uy-FqRZ5bIs",
+      "videoTitle": "Полировка дисков на траке/ Выезд на короткие дистанции",
+      "time": "06:30",
+      "timeIsApproximate": false,
+      "mention": "06:30 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=uy-FqRZ5bIs",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "uy-FqRZ5bIs",
+      "videoTitle": "Полировка дисков на траке/ Выезд на короткие дистанции",
+      "time": "09:05",
+      "timeIsApproximate": false,
+      "mention": "09:05 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=uy-FqRZ5bIs",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "EBp9RX1UcuY",
+      "videoTitle": "Недельный рейс/ Сюрприз для зрителей",
+      "time": "03:53",
+      "timeIsApproximate": false,
+      "mention": "03:53 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EBp9RX1UcuY",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "EBp9RX1UcuY",
+      "videoTitle": "Недельный рейс/ Сюрприз для зрителей",
+      "time": "09:04",
+      "timeIsApproximate": false,
+      "mention": "09:04 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EBp9RX1UcuY",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "02:27",
+      "timeIsApproximate": false,
+      "mention": "02:27 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "04:37",
+      "timeIsApproximate": false,
+      "mention": "04:37 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "06:32",
+      "timeIsApproximate": false,
+      "mention": "06:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "15:37",
+      "timeIsApproximate": false,
+      "mention": "15:37 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "17:36",
+      "timeIsApproximate": false,
+      "mention": "17:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "21:41",
+      "timeIsApproximate": false,
+      "mention": "21:41 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "28:13",
+      "timeIsApproximate": false,
+      "mention": "28:13 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "29:40",
+      "timeIsApproximate": false,
+      "mention": "29:40 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "32:24",
+      "timeIsApproximate": false,
+      "mention": "32:24 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 27
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "39:32",
+      "timeIsApproximate": false,
+      "mention": "39:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "2dn2eaY_p74",
+      "videoTitle": "В шоке от цен на грузы/ Опять нытьё/ 3 недели в рейсе",
+      "time": "47:45",
+      "timeIsApproximate": false,
+      "mention": "47:45 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=2dn2eaY_p74",
+        "descriptionLine": 35
+      }
+    },
+    {
+      "videoId": "EwRUoB3r6a4",
+      "videoTitle": "КРУИЗ по Карибам 2024 на лайнере для взрослых Virgin Voyages Scarlet Lady",
+      "time": "15:20",
+      "timeIsApproximate": false,
+      "mention": "15:20 Живая музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EwRUoB3r6a4",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "pNi9Mdv8-do",
+      "videoTitle": "Контракт на Амазоне/ День Рождения Сергея/ Продали квартиру в Майами",
+      "time": "10:12",
+      "timeIsApproximate": false,
+      "mention": "10:12 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pNi9Mdv8-do",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "pNi9Mdv8-do",
+      "videoTitle": "Контракт на Амазоне/ День Рождения Сергея/ Продали квартиру в Майами",
+      "time": "17:35",
+      "timeIsApproximate": false,
+      "mention": "17:35 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pNi9Mdv8-do",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "rxmw0VRut90",
+      "videoTitle": "Взяли контракт на Амазоне. Что это такое? Плюсы-минусы",
+      "time": "04:34",
+      "timeIsApproximate": false,
+      "mention": "04:34 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rxmw0VRut90",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "rxmw0VRut90",
+      "videoTitle": "Взяли контракт на Амазоне. Что это такое? Плюсы-минусы",
+      "time": "08:08",
+      "timeIsApproximate": false,
+      "mention": "08:08 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rxmw0VRut90",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "rxmw0VRut90",
+      "videoTitle": "Взяли контракт на Амазоне. Что это такое? Плюсы-минусы",
+      "time": "11:21",
+      "timeIsApproximate": false,
+      "mention": "11:21 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rxmw0VRut90",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "SwiXDNtfdLw",
+      "videoTitle": "Замерзшие в Орегоне/ Страшный гололёд и аварии",
+      "time": "26:56",
+      "timeIsApproximate": false,
+      "mention": "26:56 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SwiXDNtfdLw",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "SwiXDNtfdLw",
+      "videoTitle": "Замерзшие в Орегоне/ Страшный гололёд и аварии",
+      "time": "40:30",
+      "timeIsApproximate": false,
+      "mention": "40:30 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SwiXDNtfdLw",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "SwiXDNtfdLw",
+      "videoTitle": "Замерзшие в Орегоне/ Страшный гололёд и аварии",
+      "time": "56:35",
+      "timeIsApproximate": false,
+      "mention": "56:35 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=SwiXDNtfdLw",
+        "descriptionLine": 29
+      }
+    },
+    {
+      "videoId": "VTzlV7-6HHs",
+      "videoTitle": "Зимние перевалы и цепи ⛓️ Вся неделя в напряжении",
+      "time": "02:32",
+      "timeIsApproximate": false,
+      "mention": "02:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=VTzlV7-6HHs",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "VTzlV7-6HHs",
+      "videoTitle": "Зимние перевалы и цепи ⛓️ Вся неделя в напряжении",
+      "time": "04:20",
+      "timeIsApproximate": false,
+      "mention": "04:20 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=VTzlV7-6HHs",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "VTzlV7-6HHs",
+      "videoTitle": "Зимние перевалы и цепи ⛓️ Вся неделя в напряжении",
+      "time": "20:10",
+      "timeIsApproximate": false,
+      "mention": "20:10 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=VTzlV7-6HHs",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "VTzlV7-6HHs",
+      "videoTitle": "Зимние перевалы и цепи ⛓️ Вся неделя в напряжении",
+      "time": "30:14",
+      "timeIsApproximate": false,
+      "mention": "30:14 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=VTzlV7-6HHs",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "3w9V2_dDo44",
+      "videoTitle": "Что готовим в рейс/ Загнали на проверку/ Факты о Лас Вегасе",
+      "time": "12:52",
+      "timeIsApproximate": false,
+      "mention": "12:52 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3w9V2_dDo44",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "3w9V2_dDo44",
+      "videoTitle": "Что готовим в рейс/ Загнали на проверку/ Факты о Лас Вегасе",
+      "time": "20:57",
+      "timeIsApproximate": false,
+      "mention": "20:57 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3w9V2_dDo44",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "3w9V2_dDo44",
+      "videoTitle": "Что готовим в рейс/ Загнали на проверку/ Факты о Лас Вегасе",
+      "time": "24:43",
+      "timeIsApproximate": false,
+      "mention": "24:43 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3w9V2_dDo44",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "3w9V2_dDo44",
+      "videoTitle": "Что готовим в рейс/ Загнали на проверку/ Факты о Лас Вегасе",
+      "time": "27:05",
+      "timeIsApproximate": false,
+      "mention": "27:05 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3w9V2_dDo44",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "Usppy7zNAY4",
+      "videoTitle": "Наши новогодние каникулы/ Знакомство с земляками и будущими соседями",
+      "time": "29:05",
+      "timeIsApproximate": false,
+      "mention": "29:05 Песни-танцы",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=Usppy7zNAY4",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "5pmkN2eQPKY",
+      "videoTitle": "Предновогодний выпуск. Отпуск дома. Покупки к НГ 🎄",
+      "time": "24:35",
+      "timeIsApproximate": false,
+      "mention": "24:35 Вечер с песнями у Гречек @gre4ka_USA",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5pmkN2eQPKY",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "03:19",
+      "timeIsApproximate": false,
+      "mention": "03:19 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "14:24",
+      "timeIsApproximate": false,
+      "mention": "14:24 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "15:39",
+      "timeIsApproximate": false,
+      "mention": "15:39 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "18:46",
+      "timeIsApproximate": false,
+      "mention": "18:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "20:22",
+      "timeIsApproximate": false,
+      "mention": "20:22 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "5fUTw08ssww",
+      "videoTitle": "Мало грузов перед праздниками. Последний рейс в 2023 году.",
+      "time": "27:40",
+      "timeIsApproximate": false,
+      "mention": "27:40 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=5fUTw08ssww",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "pGPzgkcg6Mg",
+      "videoTitle": "Попали в снежный шторм. Слово инспектора. Цепи на асфальте.",
+      "time": "04:18",
+      "timeIsApproximate": false,
+      "mention": "04:18 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pGPzgkcg6Mg",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "pGPzgkcg6Mg",
+      "videoTitle": "Попали в снежный шторм. Слово инспектора. Цепи на асфальте.",
+      "time": "07:36",
+      "timeIsApproximate": false,
+      "mention": "07:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pGPzgkcg6Mg",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "pGPzgkcg6Mg",
+      "videoTitle": "Попали в снежный шторм. Слово инспектора. Цепи на асфальте.",
+      "time": "11:35",
+      "timeIsApproximate": false,
+      "mention": "11:35 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pGPzgkcg6Mg",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "pGPzgkcg6Mg",
+      "videoTitle": "Попали в снежный шторм. Слово инспектора. Цепи на асфальте.",
+      "time": "13:06",
+      "timeIsApproximate": false,
+      "mention": "13:06 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pGPzgkcg6Mg",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "pGPzgkcg6Mg",
+      "videoTitle": "Попали в снежный шторм. Слово инспектора. Цепи на асфальте.",
+      "time": "24:21",
+      "timeIsApproximate": false,
+      "mention": "24:21 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pGPzgkcg6Mg",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "x5EF6owbXqU",
+      "videoTitle": "Стоит ли покупать траки под Амазон? / Скоростной режим для траков в США",
+      "time": "03:09",
+      "timeIsApproximate": false,
+      "mention": "03:09 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=x5EF6owbXqU",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "x5EF6owbXqU",
+      "videoTitle": "Стоит ли покупать траки под Амазон? / Скоростной режим для траков в США",
+      "time": "07:17",
+      "timeIsApproximate": false,
+      "mention": "07:17 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=x5EF6owbXqU",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "x5EF6owbXqU",
+      "videoTitle": "Стоит ли покупать траки под Амазон? / Скоростной режим для траков в США",
+      "time": "13:56",
+      "timeIsApproximate": false,
+      "mention": "13:56 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=x5EF6owbXqU",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "x5EF6owbXqU",
+      "videoTitle": "Стоит ли покупать траки под Амазон? / Скоростной режим для траков в США",
+      "time": "20:06",
+      "timeIsApproximate": false,
+      "mention": "20:06 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=x5EF6owbXqU",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "02:17",
+      "timeIsApproximate": false,
+      "mention": "02:17 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "04:19",
+      "timeIsApproximate": false,
+      "mention": "04:19 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "05:51",
+      "timeIsApproximate": false,
+      "mention": "05:51 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "10:34",
+      "timeIsApproximate": false,
+      "mention": "10:34 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "13:31",
+      "timeIsApproximate": false,
+      "mention": "13:31 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "17:51",
+      "timeIsApproximate": false,
+      "mention": "17:51 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "23:03",
+      "timeIsApproximate": false,
+      "mention": "23:03 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "25:39",
+      "timeIsApproximate": false,
+      "mention": "25:39 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "27:41",
+      "timeIsApproximate": false,
+      "mention": "27:41 🎵 Исполняет Эвилина Давтян (племянница Сергея)",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "32:57",
+      "timeIsApproximate": false,
+      "mention": "32:57 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 28
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "35:18",
+      "timeIsApproximate": false,
+      "mention": "35:18 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "49:23",
+      "timeIsApproximate": false,
+      "mention": "49:23 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 38
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "53:11",
+      "timeIsApproximate": false,
+      "mention": "53:11 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 41
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "55:10",
+      "timeIsApproximate": false,
+      "mention": "55:10 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 45
+      }
+    },
+    {
+      "videoId": "3ewDSUO37S4",
+      "videoTitle": "Вернулись на Амазон. Рейс длиною в месяц",
+      "time": "57:17",
+      "timeIsApproximate": false,
+      "mention": "57:17 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=3ewDSUO37S4",
+        "descriptionLine": 47
+      }
+    },
+    {
+      "videoId": "v5Y6X5tv9Sw",
+      "videoTitle": "Получили СЕРЕБРЯНУЮ КНОПКУ от YouTube/ Обустройство дома/ Распаковка посылок",
+      "time": "20:37",
+      "timeIsApproximate": false,
+      "mention": "20:37 Центр города ДиЛэнд, бар с живой музыкой",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=v5Y6X5tv9Sw",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "pl1mIG2URCA",
+      "videoTitle": "2 дня в гостинице Hyatt и снова на загрузку",
+      "time": "07:00",
+      "timeIsApproximate": false,
+      "mention": "07:00 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pl1mIG2URCA",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "pl1mIG2URCA",
+      "videoTitle": "2 дня в гостинице Hyatt и снова на загрузку",
+      "time": "24:15",
+      "timeIsApproximate": false,
+      "mention": "24:15 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pl1mIG2URCA",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "pl1mIG2URCA",
+      "videoTitle": "2 дня в гостинице Hyatt и снова на загрузку",
+      "time": "32:36",
+      "timeIsApproximate": false,
+      "mention": "32:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pl1mIG2URCA",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "pl1mIG2URCA",
+      "videoTitle": "2 дня в гостинице Hyatt и снова на загрузку",
+      "time": "35:14",
+      "timeIsApproximate": false,
+      "mention": "35:14 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pl1mIG2URCA",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "V54gKoEZQ9A",
+      "videoTitle": "Завышенные ожидания от работы на конестоге",
+      "time": "03:32",
+      "timeIsApproximate": false,
+      "mention": "03:32 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=V54gKoEZQ9A",
+        "descriptionLine": 4
+      }
+    },
+    {
+      "videoId": "V54gKoEZQ9A",
+      "videoTitle": "Завышенные ожидания от работы на конестоге",
+      "time": "09:03",
+      "timeIsApproximate": false,
+      "mention": "09:03 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=V54gKoEZQ9A",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "V54gKoEZQ9A",
+      "videoTitle": "Завышенные ожидания от работы на конестоге",
+      "time": "11:51",
+      "timeIsApproximate": false,
+      "mention": "11:51 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=V54gKoEZQ9A",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "V54gKoEZQ9A",
+      "videoTitle": "Завышенные ожидания от работы на конестоге",
+      "time": "16:54",
+      "timeIsApproximate": false,
+      "mention": "16:54 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=V54gKoEZQ9A",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "V54gKoEZQ9A",
+      "videoTitle": "Завышенные ожидания от работы на конестоге",
+      "time": "30:08",
+      "timeIsApproximate": false,
+      "mention": "30:08 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=V54gKoEZQ9A",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "YJDtTfSM82s",
+      "videoTitle": "Отдали флетбед. Взяли в аренду конестогу. Грузов нет",
+      "time": "04:03",
+      "timeIsApproximate": false,
+      "mention": "04:03 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=YJDtTfSM82s",
+        "descriptionLine": 6
+      }
+    },
+    {
+      "videoId": "YJDtTfSM82s",
+      "videoTitle": "Отдали флетбед. Взяли в аренду конестогу. Грузов нет",
+      "time": "30:02",
+      "timeIsApproximate": false,
+      "mention": "30:02 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=YJDtTfSM82s",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "_jKs0zdcO50",
+      "videoTitle": "Что берём в рейс/ 5 лет работаем на траке/ Планы на будущее/ Работа на флетбеде",
+      "time": "09:05",
+      "timeIsApproximate": false,
+      "mention": "09:05 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=_jKs0zdcO50",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "_jKs0zdcO50",
+      "videoTitle": "Что берём в рейс/ 5 лет работаем на траке/ Планы на будущее/ Работа на флетбеде",
+      "time": "17:47",
+      "timeIsApproximate": false,
+      "mention": "17:47 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=_jKs0zdcO50",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "_jKs0zdcO50",
+      "videoTitle": "Что берём в рейс/ 5 лет работаем на траке/ Планы на будущее/ Работа на флетбеде",
+      "time": "21:19",
+      "timeIsApproximate": false,
+      "mention": "21:19 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=_jKs0zdcO50",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "06:20",
+      "timeIsApproximate": false,
+      "mention": "06:20 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "06:27",
+      "timeIsApproximate": false,
+      "mention": "06:27 Поем песни в машине",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "23:50",
+      "timeIsApproximate": false,
+      "mention": "23:50 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "39:42",
+      "timeIsApproximate": false,
+      "mention": "39:42 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "53:07",
+      "timeIsApproximate": false,
+      "mention": "53:07 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 26
+      }
+    },
+    {
+      "videoId": "rr3S1Fg83ko",
+      "videoTitle": "Аляска 2023/ Путешествие/ Экскурсии/ Цены",
+      "time": "01:03:51",
+      "timeIsApproximate": false,
+      "mention": "01:03:51 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=rr3S1Fg83ko",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "I2vzSDtQv94",
+      "videoTitle": "Сломался кондиционер в траке/ Спустило колесо/ Пустыня Сонора",
+      "time": "05:46",
+      "timeIsApproximate": false,
+      "mention": "05:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=I2vzSDtQv94",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "I2vzSDtQv94",
+      "videoTitle": "Сломался кондиционер в траке/ Спустило колесо/ Пустыня Сонора",
+      "time": "10:33",
+      "timeIsApproximate": false,
+      "mention": "10:33 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=I2vzSDtQv94",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "I2vzSDtQv94",
+      "videoTitle": "Сломался кондиционер в траке/ Спустило колесо/ Пустыня Сонора",
+      "time": "20:58",
+      "timeIsApproximate": false,
+      "mention": "20:58 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=I2vzSDtQv94",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "I2vzSDtQv94",
+      "videoTitle": "Сломался кондиционер в траке/ Спустило колесо/ Пустыня Сонора",
+      "time": "22:23",
+      "timeIsApproximate": false,
+      "mention": "22:23 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=I2vzSDtQv94",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "I2vzSDtQv94",
+      "videoTitle": "Сломался кондиционер в траке/ Спустило колесо/ Пустыня Сонора",
+      "time": "28:16",
+      "timeIsApproximate": false,
+      "mention": "28:16 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=I2vzSDtQv94",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "02:09",
+      "timeIsApproximate": false,
+      "mention": "02:09 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "04:48",
+      "timeIsApproximate": false,
+      "mention": "04:48 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "10:23",
+      "timeIsApproximate": false,
+      "mention": "10:23 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "16:57",
+      "timeIsApproximate": false,
+      "mention": "16:57 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "18:48",
+      "timeIsApproximate": false,
+      "mention": "18:48 Город Канзас Сити 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "23:25",
+      "timeIsApproximate": false,
+      "mention": "23:25 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 22
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "28:31",
+      "timeIsApproximate": false,
+      "mention": "28:31 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 25
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "32:32",
+      "timeIsApproximate": false,
+      "mention": "32:32 Город Цинцинатти 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 28
+      }
+    },
+    {
+      "videoId": "s1pIHAkTlZg",
+      "videoTitle": "Много новых грузов/ Мини-ураган/ Дороги США",
+      "time": "34:10",
+      "timeIsApproximate": false,
+      "mention": "34:10 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=s1pIHAkTlZg",
+        "descriptionLine": 30
+      }
+    },
+    {
+      "videoId": "FF1YeE_0-co",
+      "videoTitle": "Работа кипит. Ещё неделя и в отпуск",
+      "time": "00:14",
+      "timeIsApproximate": false,
+      "mention": "00:14 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=FF1YeE_0-co",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "FF1YeE_0-co",
+      "videoTitle": "Работа кипит. Ещё неделя и в отпуск",
+      "time": "01:17",
+      "timeIsApproximate": false,
+      "mention": "01:17 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=FF1YeE_0-co",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "FF1YeE_0-co",
+      "videoTitle": "Работа кипит. Ещё неделя и в отпуск",
+      "time": "03:07",
+      "timeIsApproximate": false,
+      "mention": "03:07 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=FF1YeE_0-co",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "FF1YeE_0-co",
+      "videoTitle": "Работа кипит. Ещё неделя и в отпуск",
+      "time": "09:04",
+      "timeIsApproximate": false,
+      "mention": "09:04 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=FF1YeE_0-co",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "vPBXWEUcfoQ",
+      "videoTitle": "Работа на платформе. Интересные грузы. Факты о Чикаго",
+      "time": "05:39",
+      "timeIsApproximate": false,
+      "mention": "05:39 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=vPBXWEUcfoQ",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "vPBXWEUcfoQ",
+      "videoTitle": "Работа на платформе. Интересные грузы. Факты о Чикаго",
+      "time": "17:39",
+      "timeIsApproximate": false,
+      "mention": "17:39 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=vPBXWEUcfoQ",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "vPBXWEUcfoQ",
+      "videoTitle": "Работа на платформе. Интересные грузы. Факты о Чикаго",
+      "time": "24:24",
+      "timeIsApproximate": false,
+      "mention": "24:24 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=vPBXWEUcfoQ",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "4KiwzgAEb8E",
+      "videoTitle": "Перевозим экскаваторы. Первый груз на флэтбеде (платформе)",
+      "time": "09:57",
+      "timeIsApproximate": false,
+      "mention": "09:57 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=4KiwzgAEb8E",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "c5xOeKrtyS4",
+      "videoTitle": "Последний рейс на автовозе. Плюсы/минусы",
+      "time": "07:54",
+      "timeIsApproximate": false,
+      "mention": "07:54 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=c5xOeKrtyS4",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "01:07",
+      "timeIsApproximate": false,
+      "mention": "01:07 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 3
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "03:29",
+      "timeIsApproximate": false,
+      "mention": "03:29 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "05:46",
+      "timeIsApproximate": false,
+      "mention": "05:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "07:25",
+      "timeIsApproximate": false,
+      "mention": "07:25 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 9
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "08:43",
+      "timeIsApproximate": false,
+      "mention": "08:43 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "10:18",
+      "timeIsApproximate": false,
+      "mention": "10:18 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "11:43",
+      "timeIsApproximate": false,
+      "mention": "11:43 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "21:37",
+      "timeIsApproximate": false,
+      "mention": "21:37 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 21
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "23:05",
+      "timeIsApproximate": false,
+      "mention": "23:05 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 23
+      }
+    },
+    {
+      "videoId": "EnhdrLsBBxU",
+      "videoTitle": "Работа на автовозе продолжается. Новые заморочки",
+      "time": "27:36",
+      "timeIsApproximate": false,
+      "mention": "27:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=EnhdrLsBBxU",
+        "descriptionLine": 26
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "07:04",
+      "timeIsApproximate": false,
+      "mention": "07:04 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "08:33",
+      "timeIsApproximate": false,
+      "mention": "08:33 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 7
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "10:46",
+      "timeIsApproximate": false,
+      "mention": "10:46 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "21:33",
+      "timeIsApproximate": false,
+      "mention": "21:33 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 15
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "25:21",
+      "timeIsApproximate": false,
+      "mention": "25:21 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 17
+      }
+    },
+    {
+      "videoId": "a7LELfs2dWY",
+      "videoTitle": "Машины не на ходу! Честное мнение о работе",
+      "time": "27:24",
+      "timeIsApproximate": false,
+      "mention": "27:24 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=a7LELfs2dWY",
+        "descriptionLine": 19
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "05:36",
+      "timeIsApproximate": false,
+      "mention": "05:36 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "17:11",
+      "timeIsApproximate": false,
+      "mention": "17:11 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 12
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "23:43",
+      "timeIsApproximate": false,
+      "mention": "23:43 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 14
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "25:37",
+      "timeIsApproximate": false,
+      "mention": "25:37 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 16
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "29:27",
+      "timeIsApproximate": false,
+      "mention": "29:27 Красивый закат и музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 18
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "32:48",
+      "timeIsApproximate": false,
+      "mention": "32:48 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "pQlSNeZE9Ho",
+      "videoTitle": "Не хотели платить за груз. Прелести работы на автовозе",
+      "time": "35:42",
+      "timeIsApproximate": false,
+      "mention": "35:42 🎵",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=pQlSNeZE9Ho",
+        "descriptionLine": 22
+      }
+    },
+    {
+      "videoId": "LWWNj7UMG7I",
+      "videoTitle": "Амазон сходит с ума. Очередная отмена груза. Красивые дороги",
+      "time": "00:46",
+      "timeIsApproximate": false,
+      "mention": "00:46 - Красивая дорога и музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=LWWNj7UMG7I",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "LWWNj7UMG7I",
+      "videoTitle": "Амазон сходит с ума. Очередная отмена груза. Красивые дороги",
+      "time": "05:36",
+      "timeIsApproximate": false,
+      "mention": "05:36 - Дорога и музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=LWWNj7UMG7I",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "LWWNj7UMG7I",
+      "videoTitle": "Амазон сходит с ума. Очередная отмена груза. Красивые дороги",
+      "time": "10:49",
+      "timeIsApproximate": false,
+      "mention": "10:49 - Вид с квадрокоптера и музыка",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=LWWNj7UMG7I",
+        "descriptionLine": 13
+      }
+    },
+    {
+      "videoId": "AfWPoqtkACg",
+      "videoTitle": "Как обманывают брокеры в США. Заехали в сервис на $2800",
+      "time": "04:01",
+      "timeIsApproximate": false,
+      "mention": "04:01 Дорога с музыкой",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=AfWPoqtkACg",
+        "descriptionLine": 8
+      }
+    },
+    {
+      "videoId": "AfWPoqtkACg",
+      "videoTitle": "Как обманывают брокеры в США. Заехали в сервис на $2800",
+      "time": "12:51",
+      "timeIsApproximate": false,
+      "mention": "12:51 Дорога с музыкой",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=AfWPoqtkACg",
+        "descriptionLine": 11
+      }
+    },
+    {
+      "videoId": "nk0lRCLhzUA",
+      "videoTitle": "Шок! МЕНЯЮ КОЛЕСО на траке! Бомжи в Орегоне",
+      "time": "05:17",
+      "timeIsApproximate": false,
+      "mention": "05:17 🎵 Музыка из программы для монтажа видео",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=nk0lRCLhzUA",
+        "descriptionLine": 4
+      }
+    },
+    {
+      "videoId": "nk0lRCLhzUA",
+      "videoTitle": "Шок! МЕНЯЮ КОЛЕСО на траке! Бомжи в Орегоне",
+      "time": "05:32",
+      "timeIsApproximate": false,
+      "mention": "05:32 🎵 Музыка из программы для монтажа видео",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=nk0lRCLhzUA",
+        "descriptionLine": 5
+      }
+    },
+    {
+      "videoId": "nk0lRCLhzUA",
+      "videoTitle": "Шок! МЕНЯЮ КОЛЕСО на траке! Бомжи в Орегоне",
+      "time": "14:26",
+      "timeIsApproximate": false,
+      "mention": "14:26 🎵 Музыка из программы для монтажа видео",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=nk0lRCLhzUA",
+        "descriptionLine": 10
+      }
+    },
+    {
+      "videoId": "nk0lRCLhzUA",
+      "videoTitle": "Шок! МЕНЯЮ КОЛЕСО на траке! Бомжи в Орегоне",
+      "time": "28:32",
+      "timeIsApproximate": false,
+      "mention": "28:32 🎵 HAVASI",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=nk0lRCLhzUA",
+        "descriptionLine": 20
+      }
+    },
+    {
+      "videoId": "T0w_3cwj32g",
+      "videoTitle": "Распаковка посылок/ Первый заезд на эндуро/ Наш сад",
+      "time": "28:16",
+      "timeIsApproximate": true,
+      "mention": "🎵 ссылка ведёт на обычное видео «2000ft RC Truck Water Hydroplane WORLD RECORD!», музыкальный источник не установлен",
+      "unresolvedReason": "YouTube oEmbed title did not identify a song or music destination.",
+      "source": {
+        "type": "video-description",
+        "url": "https://www.youtube.com/watch?v=T0w_3cwj32g",
+        "descriptionLine": 21
+      },
+      "candidateUrl": "https://www.youtube.com/watch?v=QClRzK0LTSY"
+    }
+  ],
+  "rejectedYouTubeLinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=QClRzK0LTSY",
+      "title": "2000ft RC Truck Water Hydroplane WORLD RECORD!",
+      "reason": "Target metadata does not identify this as a music recording; retained as unresolved context, not a track.",
+      "mentions": [
+        {
+          "videoId": "T0w_3cwj32g",
+          "videoTitle": "Распаковка посылок/ Первый заезд на эндуро/ Наш сад",
+          "time": "28:16",
+          "timeIsApproximate": true,
+          "evidenceText": "28:16 Поехали вокруг озера 🎵 https://youtu.be/QClRzK0LTSY?si=hrtQXcGMW9OSI0XJ 29:30 Впечатления Сергея от езды на мотоцикле",
+          "sourceText": "🎵 https://youtu.be/QClRzK0LTSY?si=hrtQXcGMW9OSI0XJ",
+          "source": {
+            "type": "video-description",
+            "url": "https://www.youtube.com/watch?v=T0w_3cwj32g",
+            "descriptionLine": 21
+          }
+        }
+      ]
+    }
+  ],
+  "sourceMetadata": {
+    "sunoSharePagesAttempted": 46,
+    "sunoSharePagesResolved": 46,
+    "youtubeOembedPagesAttempted": 18,
+    "youtubeOembedPagesResolved": 17,
+    "fetchedAt": "2026-11-17T09:06:29.854Z",
+    "method": "Read public Suno page og:title/description/og:image and YouTube oEmbed metadata."
+  },
+  "coverageNotes": [
+    "Catalog-wide coverage covers the 232 videos in channel-catalog.json; 230 descriptions were non-empty.",
+    "Direct share-page links are grouped by canonical music target and retain every video/time mention.",
+    "Suno artwork URLs come from each public Suno page og:image metadata.",
+    "YouTube artwork URLs are video thumbnail previews, not verified album covers.",
+    "Rights to rehost or republish platform artwork were not assessed.",
+    "Unlinked named tracks are recorded separately with YouTube search URLs, not direct recordings.",
+    "YouTube URLs with oEmbed titles that identify ordinary videos rather than music are excluded and retained under rejectedYouTubeLinks/unresolvedMentions.",
+    "Generic music cues without a named track remain unresolved and are not presented as separate songs."
+  ]
+}

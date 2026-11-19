@@ -1,0 +1,27 @@
+{
+  "name": "anka-personal-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build && node scripts/build-seo.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "serve": "node scripts/serve.mjs",
+    "sync:channel": "node scripts/channel-sync.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/exo-2": "^5.3.0",
+    "@fontsource-variable/literata": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@iconify-icons/bx": "^2.0.0",
+    "@iconify-icons/bxl": "^2.0.0",
+    "leaflet": "^1.9.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "vite": "^8.1.0"
+  }
+}
