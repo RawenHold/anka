@@ -18,7 +18,7 @@ export function usePhotoParallax() {
         const rect = image.getBoundingClientRect();
         if (rect.bottom < 0 || rect.top > height || !rect.height) continue;
         const progress = Math.max(-1, Math.min(1, ((rect.top + rect.height / 2) - height / 2) / (height / 2 + rect.height / 2)));
-        image.style.translate = `0 ${(-progress * 1.5).toFixed(2)}%`;
+        image.style.translate = `0 ${(-progress * 3).toFixed(2)}%`;
       }
     };
     const schedule = () => { if (!frame) frame = requestAnimationFrame(update); };

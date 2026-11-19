@@ -330,6 +330,7 @@ function App() {
             <span className="brand-symbol" aria-hidden="true">A</span>
             <span className="brand-word">ANKA<small>дорога и дом</small></span>
           </a>
+          <picture className="header-coin" aria-hidden="true"><source media="(prefers-reduced-motion: reduce)" srcSet={imagePath('images/anka-coin-still.png')} /><img src={imagePath('images/anka-loading.gif')} alt="" /></picture>
           <nav className="desktop-nav" aria-label="Основные разделы">
             {nav.slice(0, 4).map(([id, label, icon]) => <a href={`#${id}`} key={id}><IconView icon={icon} />{label}</a>)}
           </nav>

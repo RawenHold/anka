@@ -44,5 +44,5 @@ html[data-design="neon"] .cover-actions .ask-ai-popover a:hover { background: #0
 
 @media (prefers-reduced-motion: no-preference) {
   :is(.video-thumb-button, .person-photo, .home-photo-card) { overflow: hidden; }
-  :is(.video-thumb-button img, .person-photo img, .home-photo-card img, .cover-image, .truck-gallery-image) { scale: 1.05; }
+  :is(.video-thumb-button img, .person-photo img, .home-photo-card img, .cover-image, .truck-gallery-image) { scale: 1.09; }
 }
