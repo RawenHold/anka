@@ -1,9 +1,18 @@
 {
   "schemaVersion": 1,
   "channelId": "UCmLSYJkWLEbcrF4By3StTvQ",
-  "lastCheckedAt": "2026-11-24T04:49:24.787Z",
-  "videoCheckedAt": "2026-11-24T04:49:24.787Z",
+  "lastCheckedAt": "2026-11-24T19:30:14.831Z",
+  "videoCheckedAt": "2026-11-24T19:30:14.831Z",
   "videos": [
+    {
+      "id": "qLdK52G1c7k",
+      "title": "Семейный дальнобой по США. Рано приехали. Наблюдаем за строительством бассейна",
+      "date": "2026-11-24",
+      "durationSeconds": null,
+      "description": "Привет всем!\nНаш отдых немного затянулся, поэтому пора работать. Помимо рабочих моментов мы покажем как продвигается строительство нашего бассейна. \nПриятного просмотра ❤️\n\n🔗 ССЫЛКИ:\n\n🌍 Мой инстаграм: @ALICE.FOX1\nhttps://instagram.com/alice.fox1?igshid=1e43ttqxlgdyg\n\n🌍 Инстаграм Сергея: @SERGO_TOP1\nhttps://instagram.com/sergo_top1?utm_medium=copy_link\n\n🌍 Телеграм: https://t.me/AnkaDalnoboi\n\n00:01 Заправляемся в Джорджии. Цены на дизель \n01:32 🎵 https://suno.com/s/C27rzdzVdbK4qhrl\n02:54 Осень за окном трака. Штат Арканзас\n05:04 Ночная заправка\n05:50 🎵 https://suno.com/s/oFZpdqkGak2oN2tx\n06:51 Вот как нас затопило\n🎵 Aakash Gandhi - The rising \n08:20 Заправка в Калифорнии и кофе Старбакс\n10:53 🎵 D.J. Lunin - Touch of Time @Виталий_Лунин \nhttps://youtu.be/lKWBN4abNrw?is=mDQufwRcZWT90xx1\n12:37 Наблюдаем за строительством бассейна \n🎵 https://suno.com/s/6SVLkPl5WdzkXjJs\n14:54 Трейлер RGN сел на пузо\n17:54 Мы во Флориде \n18:33 Приехали на 2 дня раньше на доставку \n21:19 Мойка лобового стекла\n22:19 Последствия проливных дождей, затопления\n26:50 Заехали домой на 1 день \n29:51 Бассейн почти готов, делаем обход",
+      "url": "https://www.youtube.com/watch?v=qLdK52G1c7k",
+      "image": "https://i.ytimg.com/vi/qLdK52G1c7k/hqdefault.jpg"
+    },
     {
       "id": "hMstmrlZtDY",
       "title": "КРУИЗ на Багамы 2026 на лайнере MSC Seashore",
@@ -142,7 +151,7 @@
   ],
   "subscribers": {
     "count": 193000,
-    "observedAt": "2026-11-24T04:49:24.787Z",
+    "observedAt": "2026-11-24T19:30:14.831Z",
     "source": "youtube-channel-page"
   },
   "mileage": {
@@ -152,6 +161,11 @@
     "timeSeconds": 581,
     "source": "video"
   },
-  "mileageChecks": {},
+  "mileageChecks": {
+    "qLdK52G1c7k": {
+      "checkedAt": "2026-11-24T19:30:14.831Z",
+      "hash": "0ce846c31cf1b428c6268f2af26a08d2603d33842542234d0cb5312ed707b1a2"
+    }
+  },
   "subscriberCountHidden": false
 }
