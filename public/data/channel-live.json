@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "channelId": "UCmLSYJkWLEbcrF4By3StTvQ",
-  "lastCheckedAt": "2026-11-24T19:30:14.831Z",
-  "videoCheckedAt": "2026-11-24T19:30:14.831Z",
+  "lastCheckedAt": "2026-11-25T03:33:32.029Z",
+  "videoCheckedAt": "2026-11-25T03:33:32.029Z",
   "videos": [
     {
       "id": "qLdK52G1c7k",
@@ -151,7 +151,7 @@
   ],
   "subscribers": {
     "count": 193000,
-    "observedAt": "2026-11-24T19:30:14.831Z",
+    "observedAt": "2026-11-25T03:33:32.029Z",
     "source": "youtube-channel-page"
   },
   "mileage": {
