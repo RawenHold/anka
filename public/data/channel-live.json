@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "channelId": "UCmLSYJkWLEbcrF4By3StTvQ",
-  "lastCheckedAt": "2026-11-25T14:23:03.304Z",
-  "videoCheckedAt": "2026-11-25T14:23:03.304Z",
+  "lastCheckedAt": "2026-11-26T00:21:10.954Z",
+  "videoCheckedAt": "2026-11-26T00:21:10.954Z",
   "videos": [
     {
       "id": "qLdK52G1c7k",
@@ -151,7 +151,7 @@
   ],
   "subscribers": {
     "count": 193000,
-    "observedAt": "2026-11-25T14:23:03.304Z",
+    "observedAt": "2026-11-26T00:21:10.954Z",
     "source": "youtube-channel-page"
   },
   "mileage": {
@@ -163,7 +163,7 @@
   },
   "mileageChecks": {
     "qLdK52G1c7k": {
-      "checkedAt": "2026-11-24T19:30:14.831Z",
+      "checkedAt": "2026-11-26T00:21:10.954Z",
       "hash": "0ce846c31cf1b428c6268f2af26a08d2603d33842542234d0cb5312ed707b1a2"
     }
   },
